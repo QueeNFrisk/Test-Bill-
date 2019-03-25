@@ -1,0 +1,15 @@
+{
+    "name": "danielgarcia/bill",
+    "description": "auto stock",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.6",
+        "elevenpaths/latch-sdk-php": "dev-master",
+        "delight-im/auth": "^8.1"
+    },
+    "authors": [
+        {
+            "name": "Daniel P41N3ST Garcia",
+            "email": "daniel4581@protonmail.com"
+        }
+    ]
+}

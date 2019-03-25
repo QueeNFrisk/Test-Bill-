@@ -1,0 +1,24 @@
+* {
+  margin:0;
+  padding:0;
+}
+body {
+  background:#37474f !important;
+}
+#logo {
+  margin-top:10%;
+}
+#flot {
+  position: fixed;
+  top:98%;
+  left:93%;
+  opacity: 0.3;
+}
+.erroreinv {
+  position:fixed !important;
+  left:16% !important;
+}
+.erroreinv2 {
+  position:fixed !important;
+  left:23.3% !important;
+}
