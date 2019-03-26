@@ -22,14 +22,14 @@ $list = __DIR__ . '/lists/Arroba.xlsx';
 $list = IOFactory::load($list);
 $list = $list->getActiveSheet()->toArray(null, true, true, true);
 //$list = json_encode($list);
-foreach($list as $show){
-  $a_ar = $show["A"]; # Referencia
-  $b_ar = $show["B"]; # Nombre
-  $c_ar = $show["C"]; # Moneda
-  $d_ar = $show["D"]; # CEN
-  $e_ar = $show["E"]; # CEDIS
-  $f_ar = $show["F"]; # GDL
-  $g_ar = $show["G"]; # Precio
+for($i = 1; $i <= count($list); $i++){
+  $a_ar = $list[$i]["A"]; # Referencia
+  $b_ar = $list[$i]["B"]; # Nombre
+  $c_ar = $list[$i]["C"]; # Moneda
+  $d_ar = $list[$i]["D"]; # CEN
+  $e_ar = $list[$i]["E"]; # CEDIS
+  $f_ar = $list[$i]["F"]; # GDL
+  $g_ar = $list[$i]["G"]; # Precio
   $h_ar_t = round($g_ar, 2);
   $h_ar_ti = round($h_ar_t * $INTERAL_CURRENCY, PHP_ROUND_HALF_UP);
   if($h_ar_ti <= 2){
@@ -44,9 +44,10 @@ foreach($list as $show){
     $h_ar_tig = round($h_ar_ti * $HIGH_GAN, PHP_ROUND_HALF_UP);
   }
   $h_ar_tigf = round($h_ar_tig / $EXTERNAL_CURRENCY, PHP_ROUND_HALF_UP);
-  $conslt_pe = $db->query('SELECT * FROM ps_product WHERE reference ="'.$a_ar.'"');
+  $conslt_pe = $db->query('SELECT * FROM ps_product WHERE reference = "'.$a_ar.'"');
   $conslt_pe->fetch_array(MYSQLI_ASSOC);
-  $price = $db->query('UPDATE ps_product_shop SET price = "'.$h_ar_tigf.'" WHERE id_product = "'.$a_ar.'"');
+  var_dump($conslt_pe);
+  #$price = $db->query('UPDATE ps_product_shop SET price = "'.$h_ar_tigf.'" WHERE id_product = "'.$a_ar.'"');
   #$stock_get = $db->query('SELECT * FROM ps_stock_available WHERE id_product = "'.$a_ar.'"');
   #$stock_get = $stock_get->fetch_array(MYSQLI_ASSOC);
 
