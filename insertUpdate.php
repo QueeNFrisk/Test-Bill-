@@ -62,7 +62,6 @@ function arroba_update(){
     var_dump($stock_put);
   }
 }
-arroba_update();
 
 
 function fastek_update(){
@@ -108,7 +107,6 @@ function fastek_update(){
     $stock_put = $db->query('UPDATE ps_stock_available SET quantity = "'.$stock_get_b.'" WHERE id_product = "'.$i.'"');
   }
 }
-fastek_update();
 
 
 function ideac_update(){
@@ -155,7 +153,6 @@ function ideac_update(){
     $stock_put = $db->query('UPDATE ps_stock_available SET quantity = "'.$stock_get_c.'" WHERE id_product = "'.$i.'"');
   }
 }
-ideac_update();
 
 function importacion_update(){
   $TAXE_DEFAULT = round('1.16',2);
@@ -200,8 +197,6 @@ function importacion_update(){
     $stock_put_d = $db->query('UPDATE ps_stock_available SET quantity = "'.$stock_get_d.'" WHERE id_product = "'.$i.'"');
   }
 }
-importacion_update();
-
 
 
 function techsmart_update(){
@@ -257,8 +252,5 @@ function techsmart_update(){
     $id_product = $conslt_pe['id_product'];
     $stock_get_e = number_format($stock_get_e['quantity'], 0) + $f_te;
     $stock_put = $db->query('UPDATE ps_stock_available SET quantity = "'.$stock_get_e.'" WHERE id_product = "'.$i.'"');
-    echo $a_te." || ".$stock_put."<br/>";
-
   }
 }
-techsmart_update();

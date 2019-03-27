@@ -341,12 +341,3 @@
 			return json_encode($response);
 		}
 	}
-
-
-	$latch = new Latch('GDAiDEbbdieCHTVpFRAs', '6krru6aw8p3Y88PX7Pn4h98GQNARqwEpsL4RTXyk');
-	//$pairResponse = $latch->pair("eDcRfF");
-	$statusResponse = $latch->status('rsmXjxcmQWkcHpJ3i6nU9nU7aNThGDAx8eNihnaXXmEL9XmtiCUbLZk3WLbnbeve');
-	//$unpairResponse = $latch->unpair('');
-	//print_r($pairResponse);
-	print_r($statusResponse);
-	//print_r($unpairResponse);

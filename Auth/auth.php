@@ -2,7 +2,7 @@
 
 class auther {
   public function signin($email, $password){
-    $db = new \PDO('mysql:dbname=Bill;host=192.168.50.36;charset=utf8mb4', 'Daniel', '');
+    $db = new \PDO('mysql:dbname=prestashop;host=127.0.0.1;charset=utf8mb4', 'root', '');
     $auth = new \Delight\Auth\Auth($db);
     try {
     $auth->login($email, $password);
@@ -23,7 +23,7 @@ class auther {
   }
 
   public function signup($email, $password, $username){
-    $db = new \PDO('mysql:dbname=Bill;host=192.168.50.36;charset=utf8mb4', 'Daniel', '');
+    $db = new \PDO('mysql:dbname=pestashop;host=127.0.0.1;charset=utf8mb4', 'root', '');
     $auth = new \Delight\Auth\Auth($db);
     try {
     $userId = $auth->register($email, $password, $username, function ($selector, $token) {
@@ -45,7 +45,7 @@ class auther {
   }
 
   public function emailValidation($selector, $token){
-    $db = new \PDO('mysql:dbname=Bill;host=192.168.50.36;charset=utf8mb4', 'Daniel', '');
+    $db = new \PDO('mysql:dbname=prestashop;host=127.0.0.1;charset=utf8mb4', 'root', '');
     $auth = new \Delight\Auth\Auth($db);
     try {
       $auth->confirmEmail($selector, $token);
@@ -67,7 +67,7 @@ class auther {
 
 
   public function __load() {
-    $ct = $this->signin('daniel4581@protonmail.com', 'ickasdkck');
+    $ct = $this->signin('root4581@protonmail.com', 'ickasdkck');
     if($ct==2 ){
       echo "$('.basic.test.modal').modal('setting', 'closable', true).modal('show');";
     }
