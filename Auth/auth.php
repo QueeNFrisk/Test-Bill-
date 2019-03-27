@@ -6,7 +6,7 @@ class auther {
     $auth = new \Delight\Auth\Auth($db);
     try {
     $auth->login($email, $password);
-        header('Location: '.$_SERVER['HTTP_HOST'] . '/profile.php?=' . $userId);
+        header('Location: executor/');
     }
     catch (\Delight\Auth\InvalidEmailException $e) {
         return 1;
@@ -23,7 +23,7 @@ class auther {
   }
 
   public function signup($email, $password, $username){
-    $db = new \PDO('mysql:dbname=pestashop;host=127.0.0.1;charset=utf8mb4', 'root', '');
+    $db = new \PDO('mysql:dbname=prestashop;host=127.0.0.1;charset=utf8mb4', 'root', '');
     $auth = new \Delight\Auth\Auth($db);
     try {
     $userId = $auth->register($email, $password, $username, function ($selector, $token) {
@@ -64,20 +64,9 @@ class auther {
       return 12;
     }
   }
-
-
-  public function __load() {
-    $ct = $this->signin('root4581@protonmail.com', 'ickasdkck');
-    if($ct==2 ){
-      echo "$('.basic.test.modal').modal('setting', 'closable', true).modal('show');";
-    }
-  }
 }
 $a = new auther();
-$a->__load();
-//$a->signin('soulfantasy_kilua@live.com', 'ickkck');
-//$a->emailValidation('emKqfh5448Rx_SQh','3OVfKiq_DyvENrc1');
-
+$x = $a->signin('daniel4581@protonmail.com', 'ickkck1415121316');
 
 
 
