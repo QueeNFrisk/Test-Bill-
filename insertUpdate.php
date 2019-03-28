@@ -21,7 +21,7 @@ function arroba_update(){
   $MEDIUMLOW_GAN = round('1.30', 2);
   $LOW_GAN = round('1.5', 2);
 
-  $db = new mysqli('192.168.50.36', 'Daniel', '', 'prestashop');
+  $db = new mysqli('localhost', 'root', '', 'prestashop');
 
   $arroba = __DIR__ . '/Lists/Arroba.xlsx';
   // __ARROBA IMPORT TO JSON -> EXPORT TO MYSQL
@@ -54,14 +54,15 @@ function arroba_update(){
     $conslt_pe = $db->query('SELECT * FROM ps_product WHERE reference = "'.$a_ar.'"');
     $conslt_pe = $conslt_pe->fetch_array(MYSQLI_ASSOC);
     $id_product = $conslt_pe['id_product'];
-    $price = $db->query('UPDATE ps_product_shop SET price = "'.$h_ar_tigf.'" WHERE id_product = "'.$i.'"');
-    $stock_get_a = $db->query('SELECT * FROM ps_stock_available WHERE id_product = "'.$i.'"');
+    $price = $db->query('UPDATE ps_product_shop SET price = "'.$h_ar_tigf.'" WHERE id_product = "'.$conslt_pe['id_product'].'"');
+    $stock_get_a = $db->query('SELECT * FROM ps_stock_available WHERE id_product = "'.$conslt_pe['id_product'].'"');
     $stock_get_a = $stock_get_a->fetch_array(MYSQLI_ASSOC);
     $stock_get_a = $f_ar;
-    $stock_put = $db->query('UPDATE ps_stock_available SET quantity = "'.$stock_get_a.'" WHERE id_product = "'.$i.'"');
-    var_dump($stock_put);
+    $stock_put = $db->query('UPDATE ps_stock_available SET quantity = "'.$stock_get_a.'" WHERE id_product = "'.$conslt_pe['id_product'].'"');
+    echo $a_ar." -- ".number_format($d_ar, 0) + number_format($f_ar, 0) + number_format($g_ar, 0)." -- ".number_format(round($g_id_tigf, PHP_ROUND_HALF_UP), 2)." -- ".$conslt_pe['id_product']." -- ".$stock_put."<br />";
   }
 }
+arroba_update();
 
 
 function fastek_update(){
@@ -73,7 +74,7 @@ function fastek_update(){
   $MEDIUMLOW_GAN = round('1.30', 2);
   $LOW_GAN = round('1.5', 2);
 
-  $db = new mysqli('192.168.50.36', 'Daniel', '', 'prestashop');
+  $db = new mysqli('localhost', 'root', '', 'prestashop');
 
   $fastek = __DIR__ . '/Lists/Fastek.xlsx';
   // __FASTEK IMPORT TO JSON -> EXPORT TO MYSQL
@@ -100,13 +101,15 @@ function fastek_update(){
     $e_fa_tigf = $e_fa_tig / $EXTERNAL_CURRENCY;
     $conslt_pe = $db->query('SELECT * FROM ps_product WHERE reference ="'.$a_fa.'"');
     $conslt_pe = $conslt_pe->fetch_array(MYSQLI_ASSOC);
-    $price = $db->query('UPDATE ps_product_shop SET price = "'.$e_fa_tigf.'" WHERE id_product = "'.$i.'"');
-    $stock_get_b = $db->query('SELECT * FROM ps_stock_available WHERE id_product = "'.$i.'"');
+    $price = $db->query('UPDATE ps_product_shop SET price = "'.$e_fa_tigf.'" WHERE id_product = "'.$conslt_pe['id_product'].'"');
+    $stock_get_b = $db->query('SELECT * FROM ps_stock_available WHERE id_product = "'.$conslt_pe['id_product'].'"');
     $stock_get_b = $stock_get_b->fetch_array(MYSQLI_ASSOC);
     $stock_get_b = number_format($stock_get_b['quantity'] + $d_fa, 0);
-    $stock_put = $db->query('UPDATE ps_stock_available SET quantity = "'.$stock_get_b.'" WHERE id_product = "'.$i.'"');
+    $stock_put = $db->query('UPDATE ps_stock_available SET quantity = "'.$stock_get_b.'" WHERE id_product = "'.$conslt_pe['id_product'].'"');
+    echo $a_fa." -- ".$d_fa." -- ".$e_fa_tigf." -- ".$conslt_pe['id_product']." -- ".$stock_put."<br />";
   }
 }
+fastek_update();
 
 
 function ideac_update(){
@@ -118,7 +121,7 @@ function ideac_update(){
   $MEDIUMLOW_GAN = round('1.30', 2);
   $LOW_GAN = round('1.5', 2);
 
-  $db = new mysqli('192.168.50.36', 'Daniel', '', 'prestashop');
+  $db = new mysqli('localhost', 'root', '', 'prestashop');
 
   $ideac = __DIR__ . '/Lists/Ideac.xlsx';
   // __IDEAC IMPORT TO JSON -> EXPORT TO MYSQL
@@ -146,13 +149,16 @@ function ideac_update(){
     $g_id_tigf = $g_id_tig / $EXTERNAL_CURRENCY;
     $conslt_pe = $db->query('SELECT * FROM ps_product WHERE reference ="'.$a_id.'"');
     $conslt_pe = $conslt_pe->fetch_array(MYSQLI_ASSOC);
-    $price = $db->query('UPDATE ps_product_shop SET price = "'.$g_id_tigf.'" WHERE id_product = "'.$i.'"');
-    $stock_get_c = $db->query('SELECT * FROM ps_stock_available WHERE id_product = "'.$i.'"');
+    $price = $db->query('UPDATE ps_product_shop SET price = "'.$g_id_tigf.'" WHERE id_product = "'.$conslt_pe['id_product'].'"');
+    $stock_get_c = $db->query('SELECT * FROM ps_stock_available WHERE id_product = "'.$conslt_pe['id_product'].'"');
     $stock_get_c = $stock_get_c->fetch_array(MYSQLI_ASSOC);
     $stock_get_c = number_format($stock_get_c['quantity'], 0) + $f_id;
-    $stock_put = $db->query('UPDATE ps_stock_available SET quantity = "'.$stock_get_c.'" WHERE id_product = "'.$i.'"');
+    $stock_put = $db->query('UPDATE ps_stock_available SET quantity = "'.$stock_get_c.'" WHERE id_product = "'.$conslt_pe['id_product'].'"');
+    echo $a_id." -- ".$f_id." -- ".$g_id_tigf." -- ".$conslt_pe['id_product']." -- ".$stock_put."<br />";
   }
 }
+ideac_update();
+
 
 function importacion_update(){
   $TAXE_DEFAULT = round('1.16',2);
@@ -163,7 +169,7 @@ function importacion_update(){
   $MEDIUMLOW_GAN = round('1.30', 2);
   $LOW_GAN = round('1.5', 2);
 
-  $db = new mysqli('192.168.50.36', 'Daniel', '', 'prestashop');
+  $db = new mysqli('localhost', 'root', '', 'prestashop');
 
   $importacion = __DIR__ . '/Lists/Importacion.xlsx';
   // __IMPORTACION IMPORT TO JSON -> EXPORT TO MYSQL
@@ -190,13 +196,15 @@ function importacion_update(){
     $e_im_tigf = $e_im_tig / round($EXTERNAL_CURRENCY, PHP_ROUND_HALF_UP);
     $conslt_pe = $db->query('SELECT * FROM ps_product WHERE reference ="'.$b_im.'"');
     $conslt_pe = $conslt_pe->fetch_array(MYSQLI_ASSOC);
-    $price = $db->query('UPDATE ps_product_shop SET price = "'.$e_im_tigf.'" WHERE id_product = "'.$i.'"');
-    $stock_get_d = $db->query('SELECT * FROM ps_stock_available WHERE id_product = "'.$i.'"');
+    $price = $db->query('UPDATE ps_product_shop SET price = "'.$e_im_tigf.'" WHERE id_product = "'.$conslt_pe['id_product'].'"');
+    $stock_get_d = $db->query('SELECT * FROM ps_stock_available WHERE id_product = "'.$conslt_pe['id_product'].'"');
     $stock_get_d = round($stock_get_d->fetch_array(MYSQLI_ASSOC));
     $stock_get_d = number_format($stock_get_d['quantity'], 0) + $c_im;
-    $stock_put_d = $db->query('UPDATE ps_stock_available SET quantity = "'.$stock_get_d.'" WHERE id_product = "'.$i.'"');
+    $stock_put_d = $db->query('UPDATE ps_stock_available SET quantity = "'.$stock_get_d.'" WHERE id_product = "'.$conslt_pe['id_product'].'"');
+    echo $a_im." -- ".$c_im." -- ".$e_im_tigf." -- ".$conslt_pe['id_product']." -- ".$stock_put_d."<br />";
   }
 }
+importacion_update();
 
 
 function techsmart_update(){
@@ -208,7 +216,7 @@ function techsmart_update(){
   $MEDIUMLOW_GAN = round('1.30', 2);
   $LOW_GAN = round('1.5', 2);
 
-  $db = new mysqli('192.168.50.36', 'Daniel', '', 'prestashop');
+  $db = new mysqli('localhost', 'root', '', 'prestashop');
   $techsmart = simplexml_load_file('lists/techsmart.xml', 'SimpleXMLElement');
   for($i = 1; $i <= count($techsmart->item)-1; $i++){
     $a_te = str_replace(")", " ", str_replace("(", " ", str_replace("*", " ", str_replace('"', " ", str_replace("/", " ", $techsmart->item->$i->codigo_fabricante))))); // Referencia
@@ -246,11 +254,13 @@ function techsmart_update(){
     $e_te_tigf = $e_te_tig / $EXTERNAL_CURRENCY;
     $conslt_pe = $db->query('SELECT * FROM ps_product WHERE reference = "'.$a_te.'"');
     $conslt_pe = $conslt_pe->fetch_array(MYSQLI_ASSOC);
-    $price = $db->query('UPDATE ps_product_shop SET price = "'.$e_te_tigf.'" WHERE id_product = "'.$i.'"');
-    $stock_get_e = $db->query('SELECT * FROM ps_stock_available WHERE id_product = "'.$i.'"');
+    $price = $db->query('UPDATE ps_product_shop SET price = "'.$e_te_tigf.'" WHERE id_product = "'.$conslt_pe['id_product'].'"');
+    $stock_get_e = $db->query('SELECT * FROM ps_stock_available WHERE id_product = "'.$conslt_pe['id_product'].'"');
     $stock_get_e = $stock_get_e->fetch_array(MYSQLI_ASSOC);
     $id_product = $conslt_pe['id_product'];
     $stock_get_e = number_format($stock_get_e['quantity'], 0) + $f_te;
-    $stock_put = $db->query('UPDATE ps_stock_available SET quantity = "'.$stock_get_e.'" WHERE id_product = "'.$i.'"');
+    $stock_put = $db->query('UPDATE ps_stock_available SET quantity = "'.$stock_get_e.'" WHERE id_product = "'.$conslt_pe['id_product'].'"');
+    echo $a_te." -- ".$f_te." -- ".$e_te_tigf." -- ".$conslt_pe['id_product']." -- ".$stock_put."<br />";
   }
 }
+techsmart_update();
