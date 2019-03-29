@@ -1,75 +1,69 @@
+<?php
+
+include('insertUpdate.php');
+
+
+
+?>
+
 <html>
   <head>
     <title>Bill</title>
     <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet" />
-    <link rel="stylesheet" href="node_modules/nes.css/css/nes.min.css" />
+    <link rel="stylesheet" href="node_modules/nes.css/css/nes.css" />
     <link rel="stylesheet" href="assets/default.ness.css" />
   </head>
   <body>
-    <div class="logox">
-      <i class="nes-ash"></i><span class="nes-text is-disabled" style="font-size:400%; padding-left:0.5%; color:#000;">Bill</span>
-    </div>
-    <div class="nes-table-responsive">
-      <table class="nes-table is-bordered is-centered is-dark is-custom-ar">
-        <thead>
-          <tr>
-            <th><img class="nes-avatar is-rounded is-large" src="assets/providers/arroba.png" style="image-rendering: pixelated;"></th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <th><a href="">Actualizar</a></th>
-          </tr>
-        </tbody>
-      </table>
-      <table class="nes-table is-bordered is-centered is-dark is-custom-fa">
-        <thead>
-          <tr>
-            <th><img class="nes-avatar is-rounded is-large" src="assets/providers/fastek.png" style="image-rendering: pixelated;"></th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <th><a href="">Actualizar</a></th>
-          </tr>
-        </tbody>
-      </table>
-      <table class="nes-table is-bordered is-centered is-dark is-custom-id">
-        <thead>
-          <tr>
-            <th><img class="nes-avatar is-rounded is-large" src="assets/providers/ideac.png" style="image-rendering: pixelated;"></th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <th><a href="">Actualizar</a></th>
-          </tr>
-        </tbody>
-      </table>
-      <table class="nes-table is-bordered is-centered is-dark is-custom-im">
-        <thead>
-          <tr>
-            <th><img class="nes-avatar is-rounded is-large" src="assets/providers/importacion.png" style="image-rendering: pixelated;"></th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <th><a href="">Actualizar</a></th>
-          </tr>
-        </tbody>
-      </table>
-      <table class="nes-table is-bordered is-centered is-dark is-custom-te">
-        <thead>
-          <tr>
-            <th><img class="nes-avatar is-rounded is-large" src="assets/providers/techsmart.jpg" style="image-rendering: pixelated;"></th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <th><a href="">Actualizar</a></th>
-          </tr>
-        </tbody>
-      </table>
+    <div class="nes">
+      <div class="logox">
+        <i class="nes-ash"></i>
+      </div>
+      <div class="kin nes-container with-title is-centered is-top">
+        <p class="title">Bill</p>
+        <section class="topic">
+          <p><a href="">#</a> Actualizar:</p>
+        </section>
+        <section>
+          <div class="kin is-custom-ar nes-container with-title is-centered">
+            <p class="title">Arroba</p>
+            <img class="nes-avatar is-large"style="image-rendering: pixelated;" src="assets/providers/arroba_pixel.png">
+            <button type="submit" class="nes-btn is-primary" name="submit">Subir</button>
+          </div>
+          <div class="kin is-custom-fa nes-container with-title is-centered">
+            <p class="title">Fastek</p>
+            <img class="nes-avatar is-large"style="image-rendering: pixelated;" src="assets/providers/fastek.png">
+            <button type="button" class="nes-btn is-primary">Subir</button>
+          </div>
+          <div class="kin is-custom-id nes-container with-title is-centered">
+            <p class="title">IDEAC</p>
+            <img class="nes-avatar is-large"style="image-rendering: pixelated;" src="assets/providers/ideac_pixel.png">
+            <button type="button" class="nes-btn is-primary">Subir</button>
+          </div>
+          <div class="kin is-custom-im nes-container with-title is-centered">
+            <p class="title">Importacion</p>
+            <img class="nes-avatar is-large"style="image-rendering: pixelated;" src="assets/providers/importacion_pixel.png">
+            <button type="button" class="nes-btn is-primary">Subir</button>
+          </div>
+          <div class="kin is-custom-te nes-container with-title is-centered">
+            <p class="title">Techsmart</p>
+            <img class="nes-avatar is-large"style="image-rendering: pixelated;" src="assets/providers/techsmart.png">
+            <button type="button" class="nes-btn is-primary">Subir</button>
+          </div>
+          <div class="kin is-custom-cv nes-container with-title is-centered">
+            <p class="title">CVA</p>
+            <img class="nes-avatar is-large"style="image-rendering: pixelated;" src="assets/providers/CVA.jpg">
+            <button type="button" class="nes-btn is-primary">Subir</button>
+          </div>
+          <div class="kin is-custom-pc nes-container with-title is-centered">
+            <p class="title">PCH</p>
+            <img class="nes-avatar is-large"style="image-rendering: pixelated;" src="assets/providers/pch.png">
+            <button type="button" class="nes-btn is-primary">Subir</button>
+          </div>
+        </section>
+      </div>
+      <div class="kin-nes-progrss-bar">
+
+      </div>
     </div>
   </body>
 </html>

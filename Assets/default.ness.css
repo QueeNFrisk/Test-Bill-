@@ -2,7 +2,162 @@
   margin:0;
   padding:0;
 }
+body{
+  background:#fff;
+  margin-left:0.5%;
+  margin-top:0.5%;
+}
 
-.custom {
-  
+.logox {
+  position:relative;
+  left:22.5%;
+}
+.is-top{
+  position:absolute;
+  top:16% !important;
+  width:49%;
+}
+.is-custom-ar {
+  width:20%;
+  height: 11rem;
+  margin:1%;
+  margin-top:5%;
+  padding-bottom:1%;
+  position:relative;
+}
+.kin .nes-btn{
+  margin-top:10%;
+}
+.is-custom-fa {
+  width:20%;
+  height: 11rem;
+  margin:1%;
+  margin-top:5%;
+  padding-bottom:1%;
+  position:absolute;
+  top:16.5%;
+  left:22%;
+}
+.is-custom-id {
+  width:20%;
+  height: 11rem;
+  margin:1%;
+  margin-top:5%;
+  padding-bottom:1%;
+  position:absolute;
+  top:16.5%;
+  left:44%;
+}
+.is-custom-im {
+  width:20%;
+  height: 11rem;
+  margin:1%;
+  margin-top:5%;
+  padding-bottom:1%;
+  position: absolute;
+  top:16.5%;
+  left:66%;
+}
+.is-custom-te {
+  width:20%;
+  height: 11rem;
+  margin:1%;
+  margin-top:5%;
+  padding-bottom:1%;
+}
+.is-custom-cv {
+  width:20%;
+  height: 32%;
+  margin:1%;
+  margin-top:5%;
+  padding-bottom:1%;
+  position: absolute;
+  top:57.45%;
+  left:22%;
+}
+.is-custom-pc {
+  width:20%;
+  height: 31%;
+  margin:1%;
+  margin-top:5%;
+  padding-bottom:1%;
+  position: absolute;
+  top:57.45%;
+  left:44%;
+}
+.is-custom-ar.nes-container.with-title > .title {
+  display: table;
+  padding: 0 1rem;
+  margin: -0.8rem 1.4rem 1rem;
+  font-size: 1rem;
+  background-color: #fff;
+}
+.is-custom-fa.nes-container.with-title > .title {
+  display: table;
+  padding: 0 1rem;
+  margin: -0.8rem 1.4rem 1rem;
+  font-size: 1rem;
+  background-color: #fff;
+}
+.is-custom-fa.nes-container img {
+  width:70%;
+  height: 40% !important;
+}
+.is-custom-id.nes-container.with-title > .title {
+  display: table;
+  padding: 0 1rem;
+  margin: -1rem 2rem 1rem;
+  font-size: 1rem;
+  background-color: #fff;
+}
+.is-custom-im.nes-container.with-title > .title {
+  display: table;
+  padding: 0 1rem;
+  margin: -0.7rem 0.17rem 1rem;
+  font-size: 0.8rem;
+  background-color: #fff;
+}
+.is-custom-te.nes-container.with-title > .title {
+  display: table;
+  padding: 0 0.9rem;
+  margin: -0.8rem 0.6rem 1rem;
+  font-size: 0.9rem;
+  background-color: #fff;
+}
+.is-custom-te.nes-container img {
+  width:60%;
+}
+.is-custom-cv.nes-container.with-title > .title {
+  display: table;
+  padding: 0 1rem;
+  margin: -0.8rem 0.6rem 1rem;
+  font-size: 0.9rem;
+  background-color: #fff;
+}
+.is-custom-pc.nes-container.with-title > .title {
+  display: table;
+  padding: 0 0.9rem;
+  margin: -0.8rem 0.6rem 1rem;
+  font-size: 0.9rem;
+  background-color: #fff;
+}
+.is-custom-cv.nes-container.with-title > .title {
+  display: table;
+  padding: 0 1rem;
+  margin: -0.8rem 3.05rem 1rem;
+  font-size: 1rem;
+  background-color: #fff;
+}
+.is-custom-pc.nes-container.with-title > .title {
+  display: table;
+  padding: 0 1rem;
+  margin: -0.8rem 2.95rem 1rem;
+  font-size: 1rem;
+  background-color: #fff;
+}
+.is-custom-cv.nes-container img {
+  width:60%;
+}
+.is-custom-pc.nes-container img {
+  width:60%;
 }

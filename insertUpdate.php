@@ -556,17 +556,6 @@ function techsmart_update(){
 }
 ?>
 
-<html>
-  <head>
-    <title>Bill</title>
-    <link rel="stylesheet" href="node_modules/nes.css/nes.min.css" />
-  </head>
-  <body>
-
-  </body>
-</html>
-
-
 
 
 
