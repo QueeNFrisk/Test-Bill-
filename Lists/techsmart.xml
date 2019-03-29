@@ -60,7 +60,7 @@
     <codigo_fabricante>CL-W114-OS00GR-A</codigo_fabricante>
     <descripcion>LIQUIDO REFRIGERANTE THERMALTAKE C1000 VERDE OPACO (CL-W114-OS00GR-A)</descripcion>
     <marca>THERMALTAKE</marca>
-    <disponible>16</disponible>
+    <disponible>15</disponible>
     <precio>18.91</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -137,7 +137,7 @@
     <codigo_fabricante>MP-DCM-RGBHMS-01</codigo_fabricante>
     <descripcion>MOUSE PAD THERMALTAKE DRACONEM RGB (MP-DCM-RGBHMS-01)</descripcion>
     <marca>THERMALTAKE</marca>
-    <disponible>4</disponible>
+    <disponible>2</disponible>
     <precio>26.07</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -161,17 +161,6 @@
     <marca>THERMALTAKE</marca>
     <disponible>1</disponible>
     <precio>55.20</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>ENFRIAMIENTO Y VENTILACION</categoria>
-  </item>
-  <item>
-    <clave>ACVENTHEW120</clave>
-    <codigo_fabricante>CL-W120-CA12BU-A</codigo_fabricante>
-    <descripcion>KIT WATER COOLING THERMALTAKE (CL-W120-CA12BU-A) PACIFIC RL240</descripcion>
-    <marca>THERMALTAKE</marca>
-    <disponible>1</disponible>
-    <precio>186.04</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
     <categoria>ENFRIAMIENTO Y VENTILACION</categoria>
@@ -467,7 +456,7 @@
     <codigo_fabricante>RG-TF4-TGU1-GP</codigo_fabricante>
     <descripcion>PASTA TERMICA COOLER MASTER THERMALFUSION (RG-TF4-TGU1-GP) 4GR</descripcion>
     <marca>COOLER MASTER</marca>
-    <disponible>70</disponible>
+    <disponible>18</disponible>
     <precio>5.62</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -511,7 +500,7 @@
     <codigo_fabricante>CMV4GX3M1A1600C11</codigo_fabricante>
     <descripcion>MEMORIA DIMM DDR3 CORSAIR (CMV4GX3M1A1600C11) 4GB1600 MHZ</descripcion>
     <marca>CORSAIR</marca>
-    <disponible>20</disponible>
+    <disponible>19</disponible>
     <precio>17.99</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -555,7 +544,7 @@
     <codigo_fabricante>CMK16GX4M2A2400C14</codigo_fabricante>
     <descripcion>MEMORIA DIMM DDR4 CORSAIR (CMK16GX4M2A2400C14) 16GB (2X8GB) 2400 MHZ VENGEANCE LPX</descripcion>
     <marca>CORSAIR</marca>
-    <disponible>18</disponible>
+    <disponible>14</disponible>
     <precio>83.31</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -566,7 +555,7 @@
     <codigo_fabricante>CMK4GX4M1A2400C16</codigo_fabricante>
     <descripcion>MEMORIA DIMM DDR4 CORSAIR (CMK4GX4M1A2400C16) 4GB2400 MHZ, VENGEANCE</descripcion>
     <marca>CORSAIR</marca>
-    <disponible>2</disponible>
+    <disponible>1</disponible>
     <precio>25.35</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -584,22 +573,11 @@
     <categoria>MEMORIAS RAM Y FLASH</categoria>
   </item>
   <item>
-    <clave>D4240PAT4GB82H</clave>
-    <codigo_fabricante>PSD44G240082H</codigo_fabricante>
-    <descripcion>MEMORIA DIMM DDR4 PATRIOT (PSD44G240082H) 4GB 2400 MHZ SIGNATURE, C/HEATSHIELD</descripcion>
-    <marca>PATRIOT</marca>
-    <disponible>3</disponible>
-    <precio>18.71</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>MEMORIAS RAM Y FLASH</categoria>
-  </item>
-  <item>
     <clave>D4300COR16GXC15R</clave>
     <codigo_fabricante>CMU16GX4M2C3000C15R</codigo_fabricante>
     <descripcion>MEMORIA DIMM DDR4 CORSAIR (CMU16GX4M2C3000C15R) 16GB (2X8GB) 3000MHZ VENGEANCE RED LED</descripcion>
     <marca>CORSAIR</marca>
-    <disponible>13</disponible>
+    <disponible>11</disponible>
     <precio>107.84</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -610,7 +588,7 @@
     <codigo_fabricante>CMU16GX4M2C3000C15</codigo_fabricante>
     <descripcion>MEMORIA DIMM DDR4 CORSAIR (CMU16GX4M2C3000C15) 16GB (2X8GB) 3000MHZ VENGEANCE WHITE LED</descripcion>
     <marca>CORSAIR</marca>
-    <disponible>9</disponible>
+    <disponible>7</disponible>
     <precio>109.38</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -632,7 +610,7 @@
     <codigo_fabricante>ST1000DM010</codigo_fabricante>
     <descripcion>DISCO DURO SEAGATE 3.5" 1TB (ST1000DM010), 7200 RPM, 64MB, SATA3</descripcion>
     <marca>SEAGATE</marca>
-    <disponible>278</disponible>
+    <disponible>233</disponible>
     <precio>35.56</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -643,7 +621,7 @@
     <codigo_fabricante>ST2000DM006</codigo_fabricante>
     <descripcion>DISCO DURO SEAGATE 3.5" 2TB (ST2000DM006), 7200 RPM, 64MB, SATA3</descripcion>
     <marca>SEAGATE</marca>
-    <disponible>46</disponible>
+    <disponible>40</disponible>
     <precio>49.68</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -654,7 +632,7 @@
     <codigo_fabricante>ST3000DM008</codigo_fabricante>
     <descripcion>DISCO DURO SEAGATE 3.5" 3TB (ST3000DM008), 64MB, SATA3</descripcion>
     <marca>SEAGATE</marca>
-    <disponible>9</disponible>
+    <disponible>4</disponible>
     <precio>67.98</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -665,19 +643,8 @@
     <codigo_fabricante>ST3750525AS</codigo_fabricante>
     <descripcion>DISCO DURO SEAGATE 3.5" 750GB (ST3750525AS), 7200RPM, SATA3</descripcion>
     <marca>SEAGATE</marca>
-    <disponible>24</disponible>
+    <disponible>22</disponible>
     <precio>29.13</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>ALMACENAMIENTO</categoria>
-  </item>
-  <item>
-    <clave>DDSA3WD10PURZ</clave>
-    <codigo_fabricante>WD10PURZ</codigo_fabricante>
-    <descripcion>DISCO DURO WD (WD10PURZ) PURPLE 1TB 3.5" 5400 RPM64MB SATA3 VIDEO VIGILANCIA</descripcion>
-    <marca>WD</marca>
-    <disponible>70</disponible>
-    <precio>37.52</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
     <categoria>ALMACENAMIENTO</categoria>
@@ -687,7 +654,7 @@
     <codigo_fabricante>WD30PURX</codigo_fabricante>
     <descripcion>DISCO DURO WD PURPLE 3.5" 3TB (WD30PURX), 5400 RPM, 5400 RPM, 64MB, SATA3</descripcion>
     <marca>WD</marca>
-    <disponible>55</disponible>
+    <disponible>28</disponible>
     <precio>71.04</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -709,7 +676,7 @@
     <codigo_fabricante>WD40PURX</codigo_fabricante>
     <descripcion>DISCO DURO WD PURPLE 3.5" 4TB (WD40PURX), 5400 RPM, 64MB, SATA3</descripcion>
     <marca>WD</marca>
-    <disponible>24</disponible>
+    <disponible>3</disponible>
     <precio>90.98</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -731,7 +698,7 @@
     <codigo_fabricante>DDSAPHIT2TB</codigo_fabricante>
     <descripcion>DISCO DURO 3.5" HITACHI 2TB, 7200RPM, SATA3, NEW PULLS</descripcion>
     <marca>HITACHI</marca>
-    <disponible>1099</disponible>
+    <disponible>1066</disponible>
     <precio>29.13</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -742,7 +709,7 @@
     <codigo_fabricante>DDSAPSEA500GB59</codigo_fabricante>
     <descripcion>DISCO DURO 3.5" SEAGATE 500GB, 5900RPM, SATA3, NEW PULLS</descripcion>
     <marca>SEAGATE</marca>
-    <disponible>1773</disponible>
+    <disponible>1728</disponible>
     <precio>11.24</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -753,7 +720,7 @@
     <codigo_fabricante>DDSAPWDI1TB</codigo_fabricante>
     <descripcion>DISCO DURO 3.5" WD 1TB, 7200RPM, SATA3, NEW PULLS</descripcion>
     <marca>WD</marca>
-    <disponible>500</disponible>
+    <disponible>126</disponible>
     <precio>24.02</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -764,7 +731,7 @@
     <codigo_fabricante>DDSAPWDI500GB</codigo_fabricante>
     <descripcion>DISCO DURO 3.5" WD 500GB, 7200RPM, SATA3, NEW PULLS</descripcion>
     <marca>WD</marca>
-    <disponible>126</disponible>
+    <disponible>106</disponible>
     <precio>11.76</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -819,7 +786,7 @@
     <codigo_fabricante>STDR2000100</codigo_fabricante>
     <descripcion>DISCO DURO EXTERNO 2.5" 2TB SEAGATE (STDR2000100), BACKUP PLUS, USB 3.0, NEGRO</descripcion>
     <marca>SEAGATE</marca>
-    <disponible>131</disponible>
+    <disponible>121</disponible>
     <precio>59.80</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -852,7 +819,7 @@
     <codigo_fabricante>MPX-6001-ACAAW-US</codigo_fabricante>
     <descripcion>FUENTE DE PODER COOLER MASTER (MPX-6001-ACAAW-US) MASTERWATT LITE 600W, 80PLUS WHITE</descripcion>
     <marca>COOLER MASTER</marca>
-    <disponible>47</disponible>
+    <disponible>44</disponible>
     <precio>46.20</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -914,17 +881,6 @@
     <categoria>FUENTES DE PODER</categoria>
   </item>
   <item>
-    <clave>FP24PCORCX750M</clave>
-    <codigo_fabricante>CP-9020061-NA</codigo_fabricante>
-    <descripcion>FUENTE DE PODER CORSAIR (CP-9020061-NA) CX750M 750W SEMIMODULAR, 80PLUS BRONZE</descripcion>
-    <marca>CORSAIR</marca>
-    <disponible>6</disponible>
-    <precio>71.35</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>Si</en_promocion>
-    <categoria>FUENTES DE PODER</categoria>
-  </item>
-  <item>
     <clave>FP24PTHE650FPCB</clave>
     <codigo_fabricante>PS-SPR-0650FPCBUS-R</codigo_fabricante>
     <descripcion>FUENTE DE PODER THERMALTAKE 650W BRONZE SMARTPRO RGB (PS-SPR-0650FPCBUS-R), ZERO FAN</descripcion>
@@ -940,7 +896,7 @@
     <codigo_fabricante>PS-TPG-0750DPCGUS-R</codigo_fabricante>
     <descripcion>FUENTE DE PODER THERMALTAKE 750W TOUGHPOWER DPS G RGB (PS-TPG-0750DPCGUS-R), GOLD</descripcion>
     <marca>THERMALTAKE</marca>
-    <disponible>12</disponible>
+    <disponible>11</disponible>
     <precio>116.53</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -995,7 +951,7 @@
     <codigo_fabricante>RC-912-KKN1</codigo_fabricante>
     <descripcion>GABINETE COOLER MASTER (RC-912-KKN1-GP) HAF 912,NEGRO, ATX, SIN FUENTE</descripcion>
     <marca>COOLER MASTER</marca>
-    <disponible>5</disponible>
+    <disponible>2</disponible>
     <precio>52.64</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -1006,7 +962,7 @@
     <codigo_fabricante>MCX-B5S2-WWNN-01</codigo_fabricante>
     <descripcion>GABINETE COOLER MASTER (MCX-B5S2-WWNN-01) MASTERBOX 5, BLANCO, SIN FUENTE</descripcion>
     <marca>COOLER MASTER</marca>
-    <disponible>8</disponible>
+    <disponible>5</disponible>
     <precio>52.64</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -1039,7 +995,7 @@
     <codigo_fabricante>NSE-400-KKN2</codigo_fabricante>
     <descripcion>GABINETE COOLER MASTER (NSE-400-KKN2) N400,NEGRO,ATX, SIN FUENTE</descripcion>
     <marca>COOLER MASTER</marca>
-    <disponible>8</disponible>
+    <disponible>5</disponible>
     <precio>43.44</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -1061,7 +1017,7 @@
     <codigo_fabricante>CC-9011023-WW</codigo_fabricante>
     <descripcion>GABINETE CORSAIR (CC-9011023-WW) CARBIDE 200R NEGRO, SIN FUENTE</descripcion>
     <marca>CORSAIR</marca>
-    <disponible>16</disponible>
+    <disponible>15</disponible>
     <precio>48.04</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -1072,7 +1028,7 @@
     <codigo_fabricante>CC-9011101-WW</codigo_fabricante>
     <descripcion>GABINETE CORSAIR (CC-9011101-WW) 460X NEGRO, CRYSTAL SERIES RGB LED, SIN FUENTE</descripcion>
     <marca>CORSAIR</marca>
-    <disponible>5</disponible>
+    <disponible>1</disponible>
     <precio>109.38</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -1083,7 +1039,7 @@
     <codigo_fabricante>CC-9011052-WW</codigo_fabricante>
     <descripcion>GABINETE CORSAIR (CC-9011052-WW) SPEC-03 CARBIDE NEGRO,LED ROJO,SIN FUENTE</descripcion>
     <marca>CORSAIR</marca>
-    <disponible>19</disponible>
+    <disponible>18</disponible>
     <precio>48.56</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -1094,7 +1050,7 @@
     <codigo_fabricante>CA-H630F-W1</codigo_fabricante>
     <descripcion>GABINETE NZXT H 630 WHITE (CA-H630F-W1),SIN FUENTE</descripcion>
     <marca>NZXT</marca>
-    <disponible>2</disponible>
+    <disponible>1</disponible>
     <precio>61.33</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -1105,7 +1061,7 @@
     <codigo_fabricante>CA-1D9-00M6WN-00</codigo_fabricante>
     <descripcion>GABINETE THERMALTAKE N21 (CA-1D9-00M6WN-00), BLANCO SIN FUENTE-MID TOWER</descripcion>
     <marca>THERMALTAKE</marca>
-    <disponible>12</disponible>
+    <disponible>11</disponible>
     <precio>48.56</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -1116,7 +1072,7 @@
     <codigo_fabricante>CA-1G9-00M6WN-03</codigo_fabricante>
     <descripcion>GABINETE THERMALTAKE VERSA C22 (CA-1G9-00M6WN-03) RGB, BLANCO, SIN FUENTE</descripcion>
     <marca>THERMALTAKE</marca>
-    <disponible>9</disponible>
+    <disponible>8</disponible>
     <precio>56.73</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -1237,7 +1193,7 @@
     <codigo_fabricante>BAT-I/J1800</codigo_fabricante>
     <descripcion>MOTHERBOARD ECS BAT-I J1800,C/INTEL CELERON J1800(SODIMM DDR3),VGA,HDMI,SON6CH,GLAN</descripcion>
     <marca>ECS</marca>
-    <disponible>139</disponible>
+    <disponible>49</disponible>
     <precio>39.36</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -1259,7 +1215,7 @@
     <codigo_fabricante>MO-VEX-WDLOBK-01</codigo_fabricante>
     <descripcion>MOUSE THERMALTAKE (MO-VEX-WDLOBK-01) LASER VENTUSX</descripcion>
     <marca>THERMALTAKE</marca>
-    <disponible>4</disponible>
+    <disponible>2</disponible>
     <precio>34.24</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -1303,7 +1259,7 @@
     <codigo_fabricante>CH-9302111-NA</codigo_fabricante>
     <descripcion>MOUSE OPTICO CORSAIR GLAIVE RGB (CH-9302111-NA) ALUMINUM, 16000 DPI</descripcion>
     <marca>CORSAIR</marca>
-    <disponible>5</disponible>
+    <disponible>4</disponible>
     <precio>47.02</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -1380,7 +1336,7 @@
     <codigo_fabricante>IHAS124-14</codigo_fabricante>
     <descripcion>DVD WRITER INTERNO LITE-ON 24X SATA (IHAS124-XX) GRANEL, NEGRO</descripcion>
     <marca>LITE ON</marca>
-    <disponible>2290</disponible>
+    <disponible>2075</disponible>
     <precio>10.63</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -1479,7 +1435,7 @@
     <codigo_fabricante>BX80662I76700K</codigo_fabricante>
     <descripcion>PROCESADOR INTEL (BX80662I76700K) CORE I7-6700K S-1151 4CORE 4.0GHZ SIN VENTILADOR GRAFICOS HD530</descripcion>
     <marca>INTEL</marca>
-    <disponible>189</disponible>
+    <disponible>186</disponible>
     <precio>248.91</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -1523,7 +1479,7 @@
     <codigo_fabricante>AD6300OKHLBOX</codigo_fabricante>
     <descripcion>PROCESADOR AMD (AD6300OKHLBOX) APU A4-6300 S-FM22CORE 3.7GHZ 65W GRAF.RADEON HD8370D C/FAN D1</descripcion>
     <marca>AMD</marca>
-    <disponible>300</disponible>
+    <disponible>239</disponible>
     <precio>25.35</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -1545,7 +1501,7 @@
     <codigo_fabricante>PV48G240C5S</codigo_fabricante>
     <descripcion>MEMORIA SODIMM DDR4 PATRIOT PV48G240C5S) 8GB 2400MHZ  VIPER SERIES</descripcion>
     <marca>PATRIOT</marca>
-    <disponible>23</disponible>
+    <disponible>16</disponible>
     <precio>37.00</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -1556,7 +1512,7 @@
     <codigo_fabricante>CMSA4GX3M1A1066C7</codigo_fabricante>
     <descripcion>MEMORIA SODIMM DDR3 CORSAIR (CMSA4GX3M1A1066C7) 4GB 1066 MHZ, MAC</descripcion>
     <marca>CORSAIR</marca>
-    <disponible>28</disponible>
+    <disponible>23</disponible>
     <precio>18.91</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -1567,7 +1523,7 @@
     <codigo_fabricante>CMSA4GX3M1A1333C9</codigo_fabricante>
     <descripcion>MEMORIA SODIMM DDR3 CORSAIR (CMSA4GX3M1A1333C9)4GB 1333 MHZ, MAC</descripcion>
     <marca>CORSAIR</marca>
-    <disponible>40</disponible>
+    <disponible>32</disponible>
     <precio>18.91</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -1596,22 +1552,11 @@
     <categoria>MEMORIAS RAM Y FLASH</categoria>
   </item>
   <item>
-    <clave>SM160COR8GBSAC11</clave>
-    <codigo_fabricante>CMSA8GX3M1A1600C11</codigo_fabricante>
-    <descripcion>MEMORIA SODIMM DDR3L CORSAIR (CMSA8GX3M1A1600C11)8GB 1600MHZ, MAC, BAJO VOLTAJE</descripcion>
-    <marca>CORSAIR</marca>
-    <disponible>1</disponible>
-    <precio>33.22</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>MEMORIAS RAM Y FLASH</categoria>
-  </item>
-  <item>
     <clave>SM160COR8GBSOC11</clave>
     <codigo_fabricante>CMSO8GX3M1A1600C11</codigo_fabricante>
     <descripcion>MEMORIA SODIMM DDR3 CORSAIR (CMSO8GX3M1A1600C11) 8GB 1600 MHZ</descripcion>
     <marca>CORSAIR</marca>
-    <disponible>24</disponible>
+    <disponible>23</disponible>
     <precio>33.23</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -1622,7 +1567,7 @@
     <codigo_fabricante>CMSO8GX3M1C1600C11</codigo_fabricante>
     <descripcion>MEMORIA SODIMM DDR3L CORSAIR (CMSO8GX3M1C1600C11)8GB 1600 MHZ, BAJO VOLTAJE</descripcion>
     <marca>CORSAIR</marca>
-    <disponible>33</disponible>
+    <disponible>29</disponible>
     <precio>33.22</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -1677,7 +1622,7 @@
     <codigo_fabricante>KB-MGP-BLBDUS-01</codigo_fabricante>
     <descripcion>TECLADO MECANICO THERMALTAKE (KB-MGP-BLBDUS-01) MEKA PRO CHERRY BLUE</descripcion>
     <marca>THERMALTAKE</marca>
-    <disponible>4</disponible>
+    <disponible>2</disponible>
     <precio>66.44</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -1688,7 +1633,7 @@
     <codigo_fabricante>KB-PIZ-KBBLUS-01</codigo_fabricante>
     <descripcion>TECLADO MECANICO THERMALTAKE (KB-PIZ-KBBLUS-01) POSEIDON Z AZUL, BROWN SWITCH</descripcion>
     <marca>THERMALTAKE</marca>
-    <disponible>4</disponible>
+    <disponible>3</disponible>
     <precio>57.24</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -1697,9 +1642,9 @@
   <item>
     <clave>TEUSBCOR015SP</clave>
     <codigo_fabricante>CH-9206015-SP</codigo_fabricante>
-    <descripcion>TECLADO CORSAIR K55 GAMING (CH-9206015-SP), RGB, MEMBRANA, ESPA¥OL</descripcion>
+    <descripcion>TECLADO CORSAIR (CH-9206015-SP) K55 GAMING, MEMBRANA, RGB, ESPA¥OL</descripcion>
     <marca>CORSAIR</marca>
-    <disponible>67</disponible>
+    <disponible>66</disponible>
     <precio>34.76</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -1719,7 +1664,7 @@
   <item>
     <clave>TEUSBCOR5030NA</clave>
     <codigo_fabricante>CH-9145030-NA</codigo_fabricante>
-    <descripcion>TECLADO CORSAIR K63 (CH-9145030-NA) COMPACT GAMING,WIRELESS,MECANICO,LED AZUL,CHERRY MX RED,INGLES</descripcion>
+    <descripcion>TECLADO MECANICO CORSAIR (CH-9145030-NA) K63 WIRELESS, LED AZUL, COMPACT, CHERRY MX RED, INGLES</descripcion>
     <marca>CORSAIR</marca>
     <disponible>2</disponible>
     <precio>78.20</precio>
@@ -1787,7 +1732,7 @@
     <codigo_fabricante>RR-212L-16PR-R1</codigo_fabricante>
     <descripcion>VENTILADOR P/CPU COOLER MASTER (RR-212L-16PR-R1) HYPER 212 LED</descripcion>
     <marca>COOLER MASTER</marca>
-    <disponible>197</disponible>
+    <disponible>186</disponible>
     <precio>24.74</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -1800,28 +1745,6 @@
     <marca>COOLER MASTER</marca>
     <disponible>64</disponible>
     <precio>39.36</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>ENFRIAMIENTO Y VENTILACION</categoria>
-  </item>
-  <item>
-    <clave>VECPUCMAHT2</clave>
-    <codigo_fabricante>RR-HT2-28PK-R1</codigo_fabricante>
-    <descripcion>VENTILADOR P/CPU COOLER MASTER (RR-HT2-28PK-R1) HYPER T2 80MM</descripcion>
-    <marca>COOLER MASTER</marca>
-    <disponible>36</disponible>
-    <precio>12.06</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>ENFRIAMIENTO Y VENTILACION</categoria>
-  </item>
-  <item>
-    <clave>VECPUCMAT418PK</clave>
-    <codigo_fabricante>RR-T4-18PK-R1</codigo_fabricante>
-    <descripcion>VENTILADOR P/CPU COOLER MASTER (RR-T4-18PK-R1) HYPER T4</descripcion>
-    <marca>COOLER MASTER</marca>
-    <disponible>3</disponible>
-    <precio>19.93</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
     <categoria>ENFRIAMIENTO Y VENTILACION</categoria>
@@ -1860,28 +1783,6 @@
     <categoria>ENFRIAMIENTO Y VENTILACION</categoria>
   </item>
   <item>
-    <clave>VEGABCMA07ABGP</clave>
-    <codigo_fabricante>R4-LUS-07AB-GP</codigo_fabricante>
-    <descripcion>VENTILADOR GABINETE COOLER MASTER (R4-LUS-07AB-GP) MEGAFLOW 200MM, 700RPM, LED AZUL</descripcion>
-    <marca>COOLER MASTER</marca>
-    <disponible>5</disponible>
-    <precio>7.06</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>Si</en_promocion>
-    <categoria>ENFRIAMIENTO Y VENTILACION</categoria>
-  </item>
-  <item>
-    <clave>VEGABCMA07ARGP</clave>
-    <codigo_fabricante>R4-LUS-07AR-GP</codigo_fabricante>
-    <descripcion>VENTILADOR GABINETE COOLER MASTER (R4-LUS-07AR-GP) MEGAFLOW 200MM, 700RPM, LED ROJO</descripcion>
-    <marca>COOLER MASTER</marca>
-    <disponible>4</disponible>
-    <precio>7.06</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>Si</en_promocion>
-    <categoria>ENFRIAMIENTO Y VENTILACION</categoria>
-  </item>
-  <item>
     <clave>VEGABCMA08NPC</clave>
     <codigo_fabricante>MFY-F4DN-08NPC-R1</codigo_fabricante>
     <descripcion>VENTILADOR GABINETE COOLER MASTER MASTERFAN PRO 140 AF RGB FLOW (MFY-F4DN-08NPC-R1)</descripcion>
@@ -1904,22 +1805,11 @@
     <categoria>ENFRIAMIENTO Y VENTILACION</categoria>
   </item>
   <item>
-    <clave>VEGABCMA20ACGP</clave>
-    <codigo_fabricante>R4-C2R-20AC-GP</codigo_fabricante>
-    <descripcion>VENTILADOR GABINETE COOLER MASTER (R4-C2R-20AC-GP) SICKLEFLOW 120MM, 2000RPM, LED AZUL</descripcion>
-    <marca>COOLER MASTER</marca>
-    <disponible>8</disponible>
-    <precio>4.40</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>ENFRIAMIENTO Y VENTILACION</categoria>
-  </item>
-  <item>
     <clave>VEGABCMA20AKGP</clave>
     <codigo_fabricante>R4-SPS-20AK-GP</codigo_fabricante>
     <descripcion>VENTILADOR GABINETE COOLER MASTER (R4-SPS-20AK-GP) STANDARD FAN 80MM, 2000 RPM</descripcion>
     <marca>COOLER MASTER</marca>
-    <disponible>135</disponible>
+    <disponible>103</disponible>
     <precio>1.67</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -1930,7 +1820,7 @@
     <codigo_fabricante>R4-JFDP-20PB-R1</codigo_fabricante>
     <descripcion>VENTILADOR GABINETE COOLER MASTER (R4-JFDP-20PB-R1) JETFLO 120MM, 2000RPM, AZUL</descripcion>
     <marca>COOLER MASTER</marca>
-    <disponible>16</disponible>
+    <disponible>11</disponible>
     <precio>10.22</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -1941,7 +1831,7 @@
     <codigo_fabricante>R4-JFNP-20PK-R1</codigo_fabricante>
     <descripcion>VENTILADOR GABINETE COOLER MASTER (R4-JFNP-20PK-R1) JETFLO 120MM, 2000RPM, GRIS</descripcion>
     <marca>COOLER MASTER</marca>
-    <disponible>16</disponible>
+    <disponible>11</disponible>
     <precio>10.02</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -1952,7 +1842,7 @@
     <codigo_fabricante>R4-JFDP-20PR-R1</codigo_fabricante>
     <descripcion>VENTILADOR GABINETE COOLER MASTER (R4-JFDP-20PR-R1) JETFLO 120MM, 2000RPM, ROJO</descripcion>
     <marca>COOLER MASTER</marca>
-    <disponible>16</disponible>
+    <disponible>11</disponible>
     <precio>10.22</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -1974,7 +1864,7 @@
     <codigo_fabricante>R4-L2R-20AC-GP</codigo_fabricante>
     <descripcion>VENTILADOR GABINETE COOLER MASTER (R4-L2R-20AC-GP) SICKLEFLOW,120MM,2000 RPM,AZUL</descripcion>
     <marca>COOLER MASTER</marca>
-    <disponible>86</disponible>
+    <disponible>63</disponible>
     <precio>4.29</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -1985,7 +1875,7 @@
     <codigo_fabricante>MFY-P4DN-15NPC-R1</codigo_fabricante>
     <descripcion>VENTILADOR GABINETE COOLER MASTER (MFY-P4DN-15NPC-R1) MASTERFAN PRO 140MM, RGB AIR PRESSURE</descripcion>
     <marca>COOLER MASTER</marca>
-    <disponible>14</disponible>
+    <disponible>9</disponible>
     <precio>12.56</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -1996,21 +1886,10 @@
     <codigo_fabricante>R4-S2S-124K-GP</codigo_fabricante>
     <descripcion>VENTILADOR GABINETE COOLER MASTER 120MM SILENT (R4-S2S-124K-GP)</descripcion>
     <marca>COOLER MASTER</marca>
-    <disponible>80</disponible>
+    <disponible>59</disponible>
     <precio>5.32</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
-    <categoria>ENFRIAMIENTO Y VENTILACION</categoria>
-  </item>
-  <item>
-    <clave>VEGABCOR016B</clave>
-    <codigo_fabricante>CO-9050016-BLED</codigo_fabricante>
-    <descripcion>VENTILADOR GABINETE CORSAIR 120MM(CO-9050016-BLED)AIR SERIES AF120 LED AZUL</descripcion>
-    <marca>CORSAIR</marca>
-    <disponible>3</disponible>
-    <precio>13.80</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>Si</en_promocion>
     <categoria>ENFRIAMIENTO Y VENTILACION</categoria>
   </item>
   <item>
@@ -2040,7 +1919,7 @@
     <codigo_fabricante>CL-F042-PL12SW-A</codigo_fabricante>
     <descripcion>VENTILADOR P/GAB. THERMALTAKE (CL-F042-PL12SW-A) RGB 120MM, SINGLE PACK</descripcion>
     <marca>THERMALTAKE</marca>
-    <disponible>8</disponible>
+    <disponible>3</disponible>
     <precio>17.38</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -2128,7 +2007,7 @@
     <codigo_fabricante>R9-NBC-NPX3-GP</codigo_fabricante>
     <descripcion>BASE ENFRIADORA COOLER MASTER (R9-NBC-NPX3-GP) NOTEPAL X3,LAPTOPS HASTA 17",VENTILADOR 20CM</descripcion>
     <marca>COOLER MASTER</marca>
-    <disponible>29</disponible>
+    <disponible>24</disponible>
     <precio>24.02</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -2142,7 +2021,7 @@
     <disponible>44</disponible>
     <precio>10.43</precio>
     <moneda>Dolares</moneda>
-    <en_promocion>No</en_promocion>
+    <en_promocion>Si</en_promocion>
     <categoria>ENFRIAMIENTO Y VENTILACION</categoria>
   </item>
   <item>
@@ -2150,7 +2029,7 @@
     <codigo_fabricante>R9-NBC-XSLI-GP</codigo_fabricante>
     <descripcion>BASE ENFRIADORA COOLER MASTER NOTEPAL X-SLIM (R9-NBC-XSLI-GP)</descripcion>
     <marca>COOLER MASTER</marca>
-    <disponible>81</disponible>
+    <disponible>62</disponible>
     <precio>9.81</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -2183,22 +2062,11 @@
     <codigo_fabricante>CO-9050059-WW</codigo_fabricante>
     <descripcion>VENTILADOR GABINETE CORSAIR (CO-9050059-WW) 120MM,RGB LED,ALTO DESEMPE¥O</descripcion>
     <marca>CORSAIR</marca>
-    <disponible>7</disponible>
+    <disponible>5</disponible>
     <precio>12.78</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
     <categoria>ENFRIAMIENTO Y VENTILACION</categoria>
-  </item>
-  <item>
-    <clave>D4240PAT16GB02H</clave>
-    <codigo_fabricante>PSD416G24002H</codigo_fabricante>
-    <descripcion>MEMORIA DIMM DDR4 PATRIOT (PSD416G24002H) 16GB 2400MHZ SIGNATURE</descripcion>
-    <marca>PATRIOT</marca>
-    <disponible>3</disponible>
-    <precio>82.29</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>MEMORIAS RAM Y FLASH</categoria>
   </item>
   <item>
     <clave>VECPUTHEW107</clave>
@@ -2216,7 +2084,7 @@
     <codigo_fabricante>AC-037-LN1NAN-A1</codigo_fabricante>
     <descripcion>KIT DE ILUMINACION LED THERMALTAKE LUMI COLOR 256C RGB, (AC-037-LN1NAN-A1), 3 MAGNETIC LED STRIPS</descripcion>
     <marca>THERMALTAKE</marca>
-    <disponible>2</disponible>
+    <disponible>1</disponible>
     <precio>32.71</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -2227,7 +2095,7 @@
     <codigo_fabricante>AD9700AGABBOX</codigo_fabricante>
     <descripcion>PROCESADOR AMD (AD9700AGABBOX) APU A10-9700 S-AM44CORE 3.5GHZ 65W GRAF.RADEON R7 C/FAN D1</descripcion>
     <marca>AMD</marca>
-    <disponible>49</disponible>
+    <disponible>13</disponible>
     <precio>60.05</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -2249,7 +2117,7 @@
     <codigo_fabricante>MPX-5501-ACAAB-US</codigo_fabricante>
     <descripcion>FUENTE DE PODER COOLER MASTER (MPX-5501-ACAAB-US)MWE 550W, 80PLUS BRONZE</descripcion>
     <marca>COOLER MASTER</marca>
-    <disponible>75</disponible>
+    <disponible>74</disponible>
     <precio>47.53</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -2260,7 +2128,7 @@
     <codigo_fabricante>BX80677I37350K</codigo_fabricante>
     <descripcion>PROCESADOR INTEL (BX80677I37350K) CORE I3-7350K S-1151 2CORE 4.2GHZ SIN VENTILADOR GRAFICOS HD 630</descripcion>
     <marca>INTEL</marca>
-    <disponible>12</disponible>
+    <disponible>9</disponible>
     <precio>119.60</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -2282,7 +2150,7 @@
     <codigo_fabricante>PG279Q</codigo_fabricante>
     <descripcion>MONITOR LED ASUS 27" ROG SWIFT PG279Q 2560X1440 WQHD,IPS,4MS,HDMI,DP,3.5MM, NEGRO</descripcion>
     <marca>ASUS</marca>
-    <disponible>4</disponible>
+    <disponible>3</disponible>
     <precio>600.04</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -2304,19 +2172,8 @@
     <codigo_fabricante>PRIME B250M-A</codigo_fabricante>
     <descripcion>MOTHERBOARD ASUS PRIME B250M-A,SOCKET 1151 7A,4*DDR4 2400,PS/2,HDMI DVI-D D-SUB,2*M.2,MICRO ATX</descripcion>
     <marca>ASUS</marca>
-    <disponible>128</disponible>
+    <disponible>112</disponible>
     <precio>54.69</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>Si</en_promocion>
-    <categoria>MOTHERBOARDS</categoria>
-  </item>
-  <item>
-    <clave>MB151ASUH110MAM2</clave>
-    <codigo_fabricante>H110M-A/M.2</codigo_fabricante>
-    <descripcion>MOTHERBOARD ASUS H110M-A/M.2,SOCKET 1151 6A,2*DDR42133,PS/2,HDMI DVI-D D-SUB,M.2 1*COM,MICRO ATX</descripcion>
-    <marca>ASUS</marca>
-    <disponible>1</disponible>
-    <precio>47.53</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
     <categoria>MOTHERBOARDS</categoria>
@@ -2359,7 +2216,7 @@
     <codigo_fabricante>GT1030-2G-CSM</codigo_fabricante>
     <descripcion>TARJETA DE VIDEO ASUS GT1030-2G-CSM(GDDR5) 64BITSPCI-E 3.0, DVI-D,HDMI</descripcion>
     <marca>ASUS</marca>
-    <disponible>34</disponible>
+    <disponible>32</disponible>
     <precio>76.67</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -2381,7 +2238,7 @@
     <codigo_fabricante>WD20PURZ</codigo_fabricante>
     <descripcion>DISCO DURO WD PURPLE 3.5" 2TB (WD20PURZ), 5400 RPM, 64MB, SATA3</descripcion>
     <marca>WD</marca>
-    <disponible>36</disponible>
+    <disponible>1</disponible>
     <precio>55.20</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -2392,7 +2249,7 @@
     <codigo_fabricante>G000-0216-00</codigo_fabricante>
     <descripcion>MOUSE PAD SAPPHIRE NITRO G000-0216-00</descripcion>
     <marca>SAPPHIRE</marca>
-    <disponible>34</disponible>
+    <disponible>32</disponible>
     <precio>5.52</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -2414,7 +2271,7 @@
     <codigo_fabricante>CA-1G7-00M6WN-WT</codigo_fabricante>
     <descripcion>GABINETE THERMALTAKE VIEW 27 (CA-1G7-00M6WN-WT) BLANCO, SNOW RIING FAN , SIN FUENTE</descripcion>
     <marca>THERMALTAKE</marca>
-    <disponible>8</disponible>
+    <disponible>7</disponible>
     <precio>86.89</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -2425,7 +2282,7 @@
     <codigo_fabricante>CA-1H7-00M1WN-00</codigo_fabricante>
     <descripcion>GABINETE THERMALTAKE VERSA C23 TG (CA-1H7-00M1WN-00) RGB, NEGRO, SIN FUENTE</descripcion>
     <marca>THERMALTAKE</marca>
-    <disponible>9</disponible>
+    <disponible>7</disponible>
     <precio>72.07</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -2447,7 +2304,7 @@
     <codigo_fabricante>BSWI-D2/3060</codigo_fabricante>
     <descripcion>MOTHERBOARD ECS BSWI-D2/3060 C/INTEL CELERON J3060 (SODIMM DDR3*1), C/VGA,HDMI,SON6CH,GLAN</descripcion>
     <marca>ECS</marca>
-    <disponible>112</disponible>
+    <disponible>82</disponible>
     <precio>41.40</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -2480,7 +2337,7 @@
     <codigo_fabricante>CC-9011081-WW</codigo_fabricante>
     <descripcion>GABINETE CORSAIR (CC-9011081-WW) CARBIDE 400C NEGRO, SIN FUENTE</descripcion>
     <marca>CORSAIR</marca>
-    <disponible>18</disponible>
+    <disponible>16</disponible>
     <precio>65.63</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -2496,17 +2353,6 @@
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
     <categoria>TARJETAS DE VIDEO</categoria>
-  </item>
-  <item>
-    <clave>PR151INTI38100</clave>
-    <codigo_fabricante>BX80684I38100</codigo_fabricante>
-    <descripcion>PROCESADOR INTEL (BX80684I38100) CORE I3-8100 S-1151 4CORE 3.6GHZ 65W GRAFICOS UHD 630</descripcion>
-    <marca>INTEL</marca>
-    <disponible>24</disponible>
-    <precio>105.29</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>PROCESADORES</categoria>
   </item>
   <item>
     <clave>VECPUTHEW157</clave>
@@ -2535,7 +2381,7 @@
     <codigo_fabricante>MPX-5501-AMAAB-US</codigo_fabricante>
     <descripcion>FUENTE DE PODER COOLER MASTER (MPX-5501-AMAAB-US) MASTERWATT 550W , SEMIMODULAR 80PLUS BRONZE</descripcion>
     <marca>COOLER MASTER</marca>
-    <disponible>99</disponible>
+    <disponible>95</disponible>
     <precio>51.11</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -2546,7 +2392,7 @@
     <codigo_fabricante>MPX-6501-AMAAB-US</codigo_fabricante>
     <descripcion>FUENTE DE PODER COOLER MASTER (MPX-6501-AMAAB-US) MASTERWATT 650W , SEMIMODULAR 80PLUS BRONZE</descripcion>
     <marca>COOLER MASTER</marca>
-    <disponible>35</disponible>
+    <disponible>18</disponible>
     <precio>58.27</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -2557,7 +2403,7 @@
     <codigo_fabricante>MPX-7501-AMAAB-US</codigo_fabricante>
     <descripcion>FUENTE DE PODER COOLER MASTER (MPX-7501-AMAAB-US)MASTERWATT 750W,SEMIMODULAR 80PLUS BRONZE</descripcion>
     <marca>COOLER MASTER</marca>
-    <disponible>22</disponible>
+    <disponible>17</disponible>
     <precio>65.42</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -2568,7 +2414,7 @@
     <codigo_fabricante>AD9600AGABBOX</codigo_fabricante>
     <descripcion>PROCESADOR AMD (AD9600AGABBOX) APU A8-9600 S-AM44CORE 3.1GHZ 65W GRAF.RADEON R7 C/FAN D1</descripcion>
     <marca>AMD</marca>
-    <disponible>174</disponible>
+    <disponible>164</disponible>
     <precio>41.85</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -2586,17 +2432,6 @@
     <categoria>MOTHERBOARDS</categoria>
   </item>
   <item>
-    <clave>ROWIRASUAC1200</clave>
-    <codigo_fabricante>RT-AC1200</codigo_fabricante>
-    <descripcion>ROUTER ASUS RT-AC1200 DUAL BAND, MIMO, 4 ANTENAS 5DBI AC1200, 2.4GHZ/300MBPS, 5.0GHZ/867MBPS</descripcion>
-    <marca>ASUS</marca>
-    <disponible>277</disponible>
-    <precio>43.96</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>Si</en_promocion>
-    <categoria>REDES</categoria>
-  </item>
-  <item>
     <clave>ROWIRASUAC66U</clave>
     <codigo_fabricante>RT-AC66U B1</codigo_fabricante>
     <descripcion>ROUTER ASUS RT-AC66U B1 DUAL BAND, 3 ANTENAS  AC1750, 2.4GHZ/400MBPS, 5.0GHZ/1300MBPS</descripcion>
@@ -2612,7 +2447,7 @@
     <codigo_fabricante>USB-BT400</codigo_fabricante>
     <descripcion>ADAPTADOR USB/BLUETOOTH ASUS USB-BT400, 10MTS ALCANCE, USB 2.0, BT V4.0</descripcion>
     <marca>ASUS</marca>
-    <disponible>108</disponible>
+    <disponible>107</disponible>
     <precio>12.27</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -2623,7 +2458,7 @@
     <codigo_fabricante>SGB-3040-KKMF1-SP</codigo_fabricante>
     <descripcion>TECLADO Y MOUSE COOLER MASTER (SGB-3040-KKMF1-SP)MASTERKEYS LITE L COMBO,RGB,ESPA¥OL</descripcion>
     <marca>COOLER MASTER</marca>
-    <disponible>28</disponible>
+    <disponible>23</disponible>
     <precio>36.80</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -2634,7 +2469,7 @@
     <codigo_fabricante>TS10-B017D</codigo_fabricante>
     <descripcion>MINI PC VIVOSTICK ASUS TS10-B017D, WIN10, ATOM X5-Z8350,2GB LPDDR3,32GB EMMC,HDMI,USB,WIFI,BT V4.1</descripcion>
     <marca>ASUS</marca>
-    <disponible>29</disponible>
+    <disponible>19</disponible>
     <precio>106.52</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -2645,7 +2480,7 @@
     <codigo_fabricante>PH-GTX1050TI-4G</codigo_fabricante>
     <descripcion>TARJETA DE VIDEO ASUS PH-GTX1050TI-4G (GDDR5) 128BITS PCI-E 3.0, DVI-D,HDMI,DP</descripcion>
     <marca>ASUS</marca>
-    <disponible>22</disponible>
+    <disponible>21</disponible>
     <precio>165.70</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -2656,7 +2491,7 @@
     <codigo_fabricante>CLZ0022</codigo_fabricante>
     <descripcion>PASTA TERMICA THERMALTAKE TG-3 (CLZ0022) 4G</descripcion>
     <marca>THERMALTAKE</marca>
-    <disponible>17</disponible>
+    <disponible>16</disponible>
     <precio>8.08</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -2667,7 +2502,7 @@
     <codigo_fabricante>CL-N001-PL14BU-A</codigo_fabricante>
     <descripcion>BASE ENFRIADORA THERMALTAKE (CL-N001-PL14BU-A) MASSIVE 14ý</descripcion>
     <marca>THERMALTAKE</marca>
-    <disponible>22</disponible>
+    <disponible>17</disponible>
     <precio>21.47</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -2700,7 +2535,7 @@
     <codigo_fabricante>CL-N002-PL12BL-A</codigo_fabricante>
     <descripcion>BASE ENFRIADORA THERMALTAKE (CL-N002-PL12BL-A) MASSIVE TM</descripcion>
     <marca>THERMALTAKE</marca>
-    <disponible>5</disponible>
+    <disponible>3</disponible>
     <precio>27.19</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -2733,7 +2568,7 @@
     <codigo_fabricante>MCW-L3S3-KGNN-00</codigo_fabricante>
     <descripcion>GABINETE COOLER MASTER (MCW-L3S3-KGNN-00) MASTERBOX LITE 3.1 TG,NEGRO,MICRO-ATX,SIN FUENTE</descripcion>
     <marca>COOLER MASTER</marca>
-    <disponible>10</disponible>
+    <disponible>9</disponible>
     <precio>44.16</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -2755,7 +2590,7 @@
     <codigo_fabricante>VP279Q-P</codigo_fabricante>
     <descripcion>MONITOR LED ASUS 27" VP279Q-P 1920X1080 FHD,IPS,5MS,VGA,HDMI,DP,3.5MM,FRAMELESS, NEGRO</descripcion>
     <marca>ASUS</marca>
-    <disponible>5</disponible>
+    <disponible>6</disponible>
     <precio>180.93</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -2797,7 +2632,7 @@
   <item>
     <clave>TEUSBCOR2020SP</clave>
     <codigo_fabricante>CH-9102020-SP</codigo_fabricante>
-    <descripcion>TECLADO CORSAIR K68 GAMING (CH-9102020-SP) MECANICO, LED ROJO, CHERRY MX RED, ESPA¥OL</descripcion>
+    <descripcion>TECLADO MECANICO CORSAIR (CH-9102020-SP) K68 GAMING, LED ROJO, CHERRY MX RED, ESPA¥OL</descripcion>
     <marca>CORSAIR</marca>
     <disponible>4</disponible>
     <precio>66.55</precio>
@@ -2821,7 +2656,7 @@
     <codigo_fabricante>CP-9020130-NA</codigo_fabricante>
     <descripcion>FUENTE DE PODER CORSAIR (CP-9020130-NA) TX850M 850W SEMIMODULAR, 80 PLUS GOLD</descripcion>
     <marca>CORSAIR</marca>
-    <disponible>3</disponible>
+    <disponible>2</disponible>
     <precio>102.22</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -2832,7 +2667,7 @@
     <codigo_fabricante>DDSAPSEA2TB</codigo_fabricante>
     <descripcion>DISCO DURO 3.5" SEAGATE 2TB, 7200RPM, SATA3, NEW PULLS</descripcion>
     <marca>SEAGATE</marca>
-    <disponible>427</disponible>
+    <disponible>407</disponible>
     <precio>29.64</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -2898,7 +2733,7 @@
     <codigo_fabricante>WD60PURX</codigo_fabricante>
     <descripcion>DISCO DURO WD (WD60PURX) PURPLE 6TB 3.5" 5400 RPM64MB SATA3 VIDEO VIGILANCIA</descripcion>
     <marca>WD</marca>
-    <disponible>44</disponible>
+    <disponible>22</disponible>
     <precio>148.73</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -2909,7 +2744,7 @@
     <codigo_fabricante>SDCZ50-016G-B35</codigo_fabricante>
     <descripcion>MEMORIA USB SANDISK (SDCZ50-016G-B35) CRUZER BLADE, 16GB, NEGRO/ROJO, USB 2.0</descripcion>
     <marca>SANDISK</marca>
-    <disponible>594</disponible>
+    <disponible>591</disponible>
     <precio>2.68</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -2920,7 +2755,7 @@
     <codigo_fabricante>WD10SPZX</codigo_fabricante>
     <descripcion>DISCO DURO WD BLUE 2.5" 1TB (WD10SPZX), 7MM, 5400 RPM, 8MB, SATA3</descripcion>
     <marca>WD</marca>
-    <disponible>19</disponible>
+    <disponible>6</disponible>
     <precio>36.81</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -2971,17 +2806,6 @@
     <categoria>ACCESORIOS</categoria>
   </item>
   <item>
-    <clave>GASFTCMACOS25</clave>
-    <codigo_fabricante>RC-1200-KKN2</codigo_fabricante>
-    <descripcion>GABINETE COOLER MASTER (RC-1200-KKN2) COSMOS II 25 ANIV, VIDRIO TEMP, PLATA-NEGRO, ATX, SIN FUENTE</descripcion>
-    <marca>COOLER MASTER</marca>
-    <disponible>2</disponible>
-    <precio>300.53</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>GABINETES</categoria>
-  </item>
-  <item>
     <clave>TVPCEGBTRXV64GO8</clave>
     <codigo_fabricante>GV-RXVEGA64GAMING OC-8GD</codigo_fabricante>
     <descripcion>TARJETA DE VIDEO GIGABYTE GV-RXVEGA64GAMING OC-8GD 8GB (HBM2) 2048BITS, PCI-E 3.0,HDMI*3,DP*3</descripcion>
@@ -3008,29 +2832,18 @@
     <codigo_fabricante>EBAU108-11</codigo_fabricante>
     <descripcion>DVD WRITER SLIM EXTERNO LITE-ON 8X USB (EBAU108-11), NEGRO</descripcion>
     <marca>LITE ON</marca>
-    <disponible>310</disponible>
+    <disponible>174</disponible>
     <precio>16.87</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
     <categoria>OPTICOS</categoria>
   </item>
   <item>
-    <clave>DDSA3SEA4TDM004</clave>
-    <codigo_fabricante>ST4000DM004</codigo_fabricante>
-    <descripcion>DISCO DURO SEAGATE 3.5" 4TB (ST4000DM004), 5400 RPM, 64MB, SATA3</descripcion>
-    <marca>SEAGATE</marca>
-    <disponible>29</disponible>
-    <precio>76.26</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>ALMACENAMIENTO</categoria>
-  </item>
-  <item>
     <clave>VECPUCMAML120RGB</clave>
     <codigo_fabricante>MLW-D12M-A20PC-R1</codigo_fabricante>
     <descripcion>VENTILADOR P/CPU COOLER MASTER MLW-D12M-A20PC-R1,MASTERLIQUID LITE 120 RGB, ENFRIAMIENTO LIQUIDO</descripcion>
     <marca>COOLER MASTER</marca>
-    <disponible>29</disponible>
+    <disponible>2</disponible>
     <precio>43.64</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -3052,7 +2865,7 @@
     <codigo_fabricante>DRW-24F1ST/BLK/B/AS</codigo_fabricante>
     <descripcion>DVD WRITER INTERNO ASUS 24X SATA (DRW-24F1ST/BLK/B/AS)  GRANEL, NEGRO</descripcion>
     <marca>ASUS</marca>
-    <disponible>4208</disponible>
+    <disponible>4202</disponible>
     <precio>11.55</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -3063,8 +2876,8 @@
     <codigo_fabricante>YD2200C5FBBOX</codigo_fabricante>
     <descripcion>PROCESADOR AMD (YD2200C5FBBOX) APU RYZEN 3 2200GS-AM4 4CORE 3.5GHZ 65W GRAF.VEGA8 C/FAN STEALTH</descripcion>
     <marca>AMD</marca>
-    <disponible>256</disponible>
-    <precio>84.33</precio>
+    <disponible>199</disponible>
+    <precio>78.99</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
     <categoria>PROCESADORES</categoria>
@@ -3074,7 +2887,7 @@
     <codigo_fabricante>YD2400C5FBBOX</codigo_fabricante>
     <descripcion>PROCESADOR AMD (YD2400C5FBBOX) APU RYZEN 5 2400GS-AM4 4CORE 3.6GHZ 65W GRAF.VEGA11 C/FAN STEALTH</descripcion>
     <marca>AMD</marca>
-    <disponible>434</disponible>
+    <disponible>413</disponible>
     <precio>118.03</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -3114,17 +2927,6 @@
     <categoria>MOUSES</categoria>
   </item>
   <item>
-    <clave>FP24PCMAMPX6500</clave>
-    <codigo_fabricante>MPX-6001-ACAAB-US</codigo_fabricante>
-    <descripcion>FUENTE DE PODER COOLER MASTER (MPX-6001-ACAAB-US)MWE 600W, 80PLUS BRONZE</descripcion>
-    <marca>COOLER MASTER</marca>
-    <disponible>1</disponible>
-    <precio>53.16</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>FUENTES DE PODER</categoria>
-  </item>
-  <item>
     <clave>FP24PCMAMPX5500</clave>
     <codigo_fabricante>MPX-5001-ACAAB-US</codigo_fabricante>
     <descripcion>FUENTE DE PODER COOLER MASTER (MPX-5001-ACAAB-US)MWE 500W, 80PLUS BRONZE</descripcion>
@@ -3140,7 +2942,7 @@
     <codigo_fabricante>MPX-4501-ACAAB-US</codigo_fabricante>
     <descripcion>FUENTE DE PODER COOLER MASTER (MPX-4501-ACAAB-US)MWE 450W, 80PLUS BRONZE</descripcion>
     <marca>COOLER MASTER</marca>
-    <disponible>40</disponible>
+    <disponible>39</disponible>
     <precio>41.50</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -3151,7 +2953,7 @@
     <codigo_fabricante>SDCZ50-008G-B35</codigo_fabricante>
     <descripcion>MEMORIA USB SANDISK (SDCZ50-008G-B35) CRUZER BLADE, 8GB, NEGRO/ROJO, USB 2.0</descripcion>
     <marca>SANDISK</marca>
-    <disponible>1701</disponible>
+    <disponible>1631</disponible>
     <precio>2.45</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -3169,22 +2971,11 @@
     <categoria>REDES</categoria>
   </item>
   <item>
-    <clave>GASFTCMAMB600L</clave>
-    <codigo_fabricante>MCB-B600L-KA5N-S00</codigo_fabricante>
-    <descripcion>GABINETE COOLER MASTER (MCB-B600L-KA5N-S00) MASTERBOX MB600L,NEGRO-ROJO,PANEL ACRILIC,ATX,SIN FUENTE</descripcion>
-    <marca>COOLER MASTER</marca>
-    <disponible>1</disponible>
-    <precio>44.98</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>GABINETES</categoria>
-  </item>
-  <item>
     <clave>DDSA3WD20EZRZ</clave>
     <codigo_fabricante>WD20EZRZ</codigo_fabricante>
     <descripcion>DISCO DURO WD BLUE 3.5" 2TB (WD20EZRZ), 5400 RPM,64MB, SATA3</descripcion>
     <marca>WD</marca>
-    <disponible>47</disponible>
+    <disponible>31</disponible>
     <precio>45.49</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -3228,7 +3019,7 @@
     <codigo_fabricante>CC-9011116-WW</codigo_fabricante>
     <descripcion>GABINETE CORSAIR (CC-9011116-WW) OBSIDIAN 500D VIDRIO TEMPLADO, NEGRO/ALUMINIO,SIN FUENTE</descripcion>
     <marca>CORSAIR</marca>
-    <disponible>11</disponible>
+    <disponible>10</disponible>
     <precio>101.20</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -3272,7 +3063,7 @@
     <codigo_fabricante>HDTB410XK3AA</codigo_fabricante>
     <descripcion>DISCO DURO EXTERNO 2.5" 1TB TOSHIBA (HDTB410XK3AA) NEGRO, CANVIO BASICS USB 3.0</descripcion>
     <marca>TOSHIBA</marca>
-    <disponible>40</disponible>
+    <disponible>39</disponible>
     <precio>42.93</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -3301,17 +3092,6 @@
     <categoria>MONITORES</categoria>
   </item>
   <item>
-    <clave>MOLEDASUXG32VQ</clave>
-    <codigo_fabricante>XG32VQ</codigo_fabricante>
-    <descripcion>MONITOR LED ASUS 31.5" XG32VQ ROG STRIX 2560X1440144HZ,WQHD,VA CURVO,4MS,HDMI,DP,MINI DP,TITANIO</descripcion>
-    <marca>ASUS</marca>
-    <disponible>1</disponible>
-    <precio>587.79</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>Si</en_promocion>
-    <categoria>MONITORES</categoria>
-  </item>
-  <item>
     <clave>MOLEDASUMX32VQ</clave>
     <codigo_fabricante>MX32VQ</codigo_fabricante>
     <descripcion>MONITOR LED ASUS 31.5" MX32VQ 2560X1440 WQHD,VA CURVO,4MS,HDMI*2,DP,ALUMINIO</descripcion>
@@ -3323,6 +3103,17 @@
     <categoria>MONITORES</categoria>
   </item>
   <item>
+    <clave>MOLEDASUXG27VQ</clave>
+    <codigo_fabricante>XG27VQ</codigo_fabricante>
+    <descripcion>MONITOR LED ASUS 27" XG27VQ ROG STRIX 1920X1080 144HZ,FHD,VA CURVO,4MS,HDMI,DP,DVI-D,TITANIO</descripcion>
+    <marca>ASUS</marca>
+    <disponible>1</disponible>
+    <precio>308.71</precio>
+    <moneda>Dolares</moneda>
+    <en_promocion>No</en_promocion>
+    <categoria>MONITORES</categoria>
+  </item>
+  <item>
     <clave>MOLEDASUVZ279H</clave>
     <codigo_fabricante>VZ279H</codigo_fabricante>
     <descripcion>MONITOR LED ASUS 27" VZ279H 1920X1080 FHD,IPS,5MS,HDMI*2,VGA,NEGRO/DORADO</descripcion>
@@ -3331,17 +3122,6 @@
     <precio>189.11</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
-    <categoria>MONITORES</categoria>
-  </item>
-  <item>
-    <clave>MOLEDASUMX259H</clave>
-    <codigo_fabricante>MX259H</codigo_fabricante>
-    <descripcion>MONITOR LED ASUS 25" (MX259H) 1920X1080 FHD,AH-IPS,5S,HDMI*2,VGA,3.5MM,BOCINAS,BANG&amp;OLUFSEN,ALUMINIO</descripcion>
-    <marca>ASUS</marca>
-    <disponible>1</disponible>
-    <precio>167.64</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>Si</en_promocion>
     <categoria>MONITORES</categoria>
   </item>
   <item>
@@ -3371,7 +3151,7 @@
     <codigo_fabricante>MPW-5001-ACAAN1-US</codigo_fabricante>
     <descripcion>FUENTE DE PODER COOLER MASTER (MPW-5001-ACAAN1-US) ELITE V3 500W, 75% EFFICIENCY</descripcion>
     <marca>COOLER MASTER</marca>
-    <disponible>10</disponible>
+    <disponible>9</disponible>
     <precio>39.66</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -3389,22 +3169,11 @@
     <categoria>FUENTES DE PODER</categoria>
   </item>
   <item>
-    <clave>GASFTCMAMQ300P</clave>
-    <codigo_fabricante>MCB-Q300P-KANN-S02</codigo_fabricante>
-    <descripcion>GABINETE COOLER MASTER (MCB-Q300P-KANN-S02) MASTERBOX Q300P, RGB, NEGRO, MICRO-ATX, SIN FUENTE</descripcion>
-    <marca>COOLER MASTER</marca>
-    <disponible>1</disponible>
-    <precio>59.80</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>GABINETES</categoria>
-  </item>
-  <item>
     <clave>MB151ASUH110MD</clave>
     <codigo_fabricante>H110M-D</codigo_fabricante>
     <descripcion>MOTHERBOARD ASUS PRIME H110M-D,SOCKET 1151 7A,2*DDR4 2400,PS/2,HDMI D-SUB,TPM 1*COM,MICRO ATX</descripcion>
     <marca>ASUS</marca>
-    <disponible>75</disponible>
+    <disponible>71</disponible>
     <precio>46.51</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -3426,19 +3195,8 @@
     <codigo_fabricante>YD2600BBAFBOX</codigo_fabricante>
     <descripcion>PROCESADOR AMD (YD2600BBAFBOX) RYZEN 5 2600 S-AM46CORE 3.4GHZ 65W SIN GRAFICOS C/FAN STEALTH</descripcion>
     <marca>AMD</marca>
-    <disponible>91</disponible>
+    <disponible>90</disponible>
     <precio>140.25</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>Si</en_promocion>
-    <categoria>PROCESADORES</categoria>
-  </item>
-  <item>
-    <clave>PRAM4AMDRY52600X</clave>
-    <codigo_fabricante>YD260XBCAFBOX</codigo_fabricante>
-    <descripcion>PROCESADOR AMD (YD260XBCAFBOX) RYZEN 5 2600X S-AM4 6CORE 3.7GHZ 95W SIN GRAFICOS C/FAN SPIRE</descripcion>
-    <marca>AMD</marca>
-    <disponible>32</disponible>
-    <precio>168.98</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
     <categoria>PROCESADORES</categoria>
@@ -3448,7 +3206,7 @@
     <codigo_fabricante>YD2700BBAFBOX</codigo_fabricante>
     <descripcion>PROCESADOR AMD (YD2700BBAFBOX) RYZEN 7 2700 S-AM48CORE 3.2GHZ 65W SIN GRAFICOS C/FAN SPIRE</descripcion>
     <marca>AMD</marca>
-    <disponible>20</disponible>
+    <disponible>2</disponible>
     <precio>223.84</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -3459,7 +3217,7 @@
     <codigo_fabricante>YD270XBGAFBOX</codigo_fabricante>
     <descripcion>PROCESADOR AMD (YD270XBGAFBOX) RYZEN 7 2700X S-AM4 8CORE 3.7GHZ 105W SIN GRAFICOS C/FAN PRISM</descripcion>
     <marca>AMD</marca>
-    <disponible>100</disponible>
+    <disponible>45</disponible>
     <precio>263.35</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -3481,7 +3239,7 @@
     <codigo_fabricante>VCQP1000-ESPPB</codigo_fabricante>
     <descripcion>TARJETA DE VIDEO PNY (VCQP1000-ESPPB) QUADRO P1000,4GB GDDR5,PCIE-X16, 4 MINI DISPLAY PORT 1.4</descripcion>
     <marca>PNY</marca>
-    <disponible>10</disponible>
+    <disponible>8</disponible>
     <precio>281.11</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -3503,10 +3261,10 @@
     <codigo_fabricante>SSD7CS900-120-RB</codigo_fabricante>
     <descripcion>UNIDAD SSD PNY (SSD7CS900-120-RB) CS900 120GB 2.5" 3D NAND 7MM SATA3</descripcion>
     <marca>PNY</marca>
-    <disponible>432</disponible>
-    <precio>18.50</precio>
+    <disponible>325</disponible>
+    <precio>16.37</precio>
     <moneda>Dolares</moneda>
-    <en_promocion>Si</en_promocion>
+    <en_promocion>No</en_promocion>
     <categoria>ALMACENAMIENTO</categoria>
   </item>
   <item>
@@ -3514,7 +3272,7 @@
     <codigo_fabricante>SSD7CS900-960-RB</codigo_fabricante>
     <descripcion>UNIDAD SSD PNY (SSD7CS900-960-RB) CS900 960GB 2.5" 3D NAND 7MM SATA3</descripcion>
     <marca>PNY</marca>
-    <disponible>24</disponible>
+    <disponible>16</disponible>
     <precio>108.45</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -3547,7 +3305,7 @@
     <codigo_fabricante>CW-9060036-WW</codigo_fabricante>
     <descripcion>VENTILADOR P/CPU CORSAIR (CW-9060036-WW) HYDRO H60,120MM, 1 FAN, ENFRIAMIENTO LIQUIDO</descripcion>
     <marca>CORSAIR</marca>
-    <disponible>62</disponible>
+    <disponible>49</disponible>
     <precio>47.23</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -3587,22 +3345,11 @@
     <categoria>ACCESORIOS</categoria>
   </item>
   <item>
-    <clave>GASFTCMAH500PME</clave>
-    <codigo_fabricante>MCM-H500P-WGNN-S00</codigo_fabricante>
-    <descripcion>GABINETE COOLER MASTER (MCM-H500P-WGNN-S00) MASTERCASE H500P MESH WHITE, BLANCO, ATX, SIN FUENTE</descripcion>
-    <marca>COOLER MASTER</marca>
-    <disponible>2</disponible>
-    <precio>113.47</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>GABINETES</categoria>
-  </item>
-  <item>
     <clave>DDUSBTOS420XK3AA</clave>
     <codigo_fabricante>HDTB420XK3AA</codigo_fabricante>
     <descripcion>DISCO DURO EXTERNO 2.5" 2TB TOSHIBA (HDTB420XK3AA) NEGRO, CANVIO BASICS USB 3.0</descripcion>
     <marca>TOSHIBA</marca>
-    <disponible>24</disponible>
+    <disponible>22</disponible>
     <precio>60.11</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -3613,7 +3360,7 @@
     <codigo_fabricante>DDSAPSEA3TB</codigo_fabricante>
     <descripcion>DISCO DURO 3.5" SEAGATE 3TB, 7200RPM, SATA3, NEW PULLS</descripcion>
     <marca>SEAGATE</marca>
-    <disponible>296</disponible>
+    <disponible>283</disponible>
     <precio>41.91</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -3624,7 +3371,7 @@
     <codigo_fabricante>TUF X470-PLUS GAMING</codigo_fabricante>
     <descripcion>MOTHERBOARD ASUS TUF X470-PLUS GAMING,SOCKET AM4,4*DDR4 3200,PS/2,HDMI DVI-D,2*M.2 AURA RGB,ATX</descripcion>
     <marca>ASUS</marca>
-    <disponible>24</disponible>
+    <disponible>23</disponible>
     <precio>120.62</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -3635,7 +3382,7 @@
     <codigo_fabricante>PRIME J4005I-C</codigo_fabricante>
     <descripcion>MOTHERBOARD ASUS PRIME J4005I-C C/INTEL CELERON J4005,(DDR4),PS2,VGA,HDMI,SON8CH,GLAN</descripcion>
     <marca>ASUS</marca>
-    <disponible>265</disponible>
+    <disponible>262</disponible>
     <precio>46.51</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -3646,7 +3393,7 @@
     <codigo_fabricante>CP-9020087-NA</codigo_fabricante>
     <descripcion>FUENTE DE PODER CORSAIR (CP-9020087-NA) AX1600I DIGITAL 1600W FULL MODULAR, 80 PLUS PLATINUM</descripcion>
     <marca>CORSAIR</marca>
-    <disponible>3</disponible>
+    <disponible>1</disponible>
     <precio>338.36</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -3657,7 +3404,7 @@
     <codigo_fabricante>VCGGTX1050T4PB</codigo_fabricante>
     <descripcion>TARJETA DE VIDEO PNY (VCGGTX1050T4PB) GEFORCE GTX1050TI,4GB GDDR5,PCIE-X16,DP+DL-DVI+HDMI,2 SLOT,ATX</descripcion>
     <marca>PNY</marca>
-    <disponible>101</disponible>
+    <disponible>100</disponible>
     <precio>146.18</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -3679,7 +3426,7 @@
     <codigo_fabricante>710-1-SL-BRK</codigo_fabricante>
     <descripcion>TARJETA DE VIDEO ASUS 710-1-SL-BRK 64BITS,1GB,PCI--E 2.0,HDMI DVI-D D-SUB,SILENT</descripcion>
     <marca>ASUS</marca>
-    <disponible>45</disponible>
+    <disponible>8</disponible>
     <precio>34.45</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -3690,29 +3437,18 @@
     <codigo_fabricante>PCE-AC55BT B1</codigo_fabricante>
     <descripcion>TARJETA DE RED INALAMBRICA ASUS PCIE PCE-AC55BT B1, BLUETOOTH 4.2,IEEE 802.11 A/B/G/N/AC</descripcion>
     <marca>ASUS</marca>
-    <disponible>39</disponible>
+    <disponible>36</disponible>
     <precio>31.69</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
     <categoria>REDES</categoria>
   </item>
   <item>
-    <clave>DDSSDINT128G8X1</clave>
-    <codigo_fabricante>SSDSC2KW128G8X1</codigo_fabricante>
-    <descripcion>UNIDAD SSD INTEL (SSDSC2KW128G8X1) 545S SERIES 128GB 2.5" 7MM SATA3</descripcion>
-    <marca>INTEL</marca>
-    <disponible>1</disponible>
-    <precio>24.43</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>Si</en_promocion>
-    <categoria>ALMACENAMIENTO</categoria>
-  </item>
-  <item>
     <clave>DDSSDINT256G8X1</clave>
     <codigo_fabricante>SSDSC2KW256G8X1</codigo_fabricante>
     <descripcion>UNIDAD SSD INTEL (SSDSC2KW256G8X1) 545S SERIES 256GB 2.5" 7MM SATA3</descripcion>
     <marca>INTEL</marca>
-    <disponible>10</disponible>
+    <disponible>1</disponible>
     <precio>40.89</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -3866,7 +3602,7 @@
     <codigo_fabricante>PVR416G320C6K</codigo_fabricante>
     <descripcion>MEMORIA DIMM DDR4 PATRIOT V (PVR416G320C6K) RGB 16GB 3200MHZ KIT 2X8GB, BLACK HEATSHIELD,CL16</descripcion>
     <marca>PATRIOT</marca>
-    <disponible>16</disponible>
+    <disponible>14</disponible>
     <precio>114.49</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -3906,22 +3642,11 @@
     <categoria>MEMORIAS RAM Y FLASH</categoria>
   </item>
   <item>
-    <clave>D4240PAT16GC5KRD</clave>
-    <codigo_fabricante>PVE416G240C5KRD</codigo_fabricante>
-    <descripcion>MEMORIA DIMM DDR4 PATRIOT V (PVE416G240C5KRD) ELITE 16GB 2400MHZ KIT 2X8GB, GRAY/RED HEATSHIELD,CL15</descripcion>
-    <marca>PATRIOT</marca>
-    <disponible>1</disponible>
-    <precio>75.64</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>MEMORIAS RAM Y FLASH</categoria>
-  </item>
-  <item>
     <clave>D4240PAT16GC6GY</clave>
     <codigo_fabricante>PVE416G240C6GY</codigo_fabricante>
     <descripcion>MEMORIA DIMM DDR4 PATRIOT V (PVE416G240C6GY) ELITE 16GB 2400MHZ GRAY HEATSHIELD,CL16</descripcion>
     <marca>PATRIOT</marca>
-    <disponible>1</disponible>
+    <disponible>3</disponible>
     <precio>82.29</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -3965,7 +3690,7 @@
     <codigo_fabricante>CA-1J7-00M1WN-01</codigo_fabricante>
     <descripcion>GABINETE THERMALTAKE VIEW 37 RGB (CA-1J7-00M1WN-01) NEGRO, SIN FUENTE</descripcion>
     <marca>THERMALTAKE</marca>
-    <disponible>6</disponible>
+    <disponible>4</disponible>
     <precio>144.13</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -3983,22 +3708,11 @@
     <categoria>OPTICOS</categoria>
   </item>
   <item>
-    <clave>MBAM4ASURSB450FG</clave>
-    <codigo_fabricante>ROG STRIX B450-F GAMING</codigo_fabricante>
-    <descripcion>MOTHERBOARD ASUS ROG STRIX B450-F GAMING SOCKET AM4,(DDR4),PS2,DP,HDMI,SPDIF,SON8CH,GLAN</descripcion>
-    <marca>ASUS</marca>
-    <disponible>8</disponible>
-    <precio>112.76</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>Si</en_promocion>
-    <categoria>MOTHERBOARDS</categoria>
-  </item>
-  <item>
     <clave>TVPCEPNYQP620</clave>
     <codigo_fabricante>VCQP620-ESPPB</codigo_fabricante>
     <descripcion>TARJETA DE VIDEO PNY (VCQP620-ESPPB) QUADRO P620 2GB GDDR5,128BITS, 4*MINI DP</descripcion>
     <marca>PNY</marca>
-    <disponible>176</disponible>
+    <disponible>148</disponible>
     <precio>148.73</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -4038,17 +3752,6 @@
     <categoria>ENFRIAMIENTO Y VENTILACION</categoria>
   </item>
   <item>
-    <clave>TVPCEPNYQP4000</clave>
-    <codigo_fabricante>VCQP4000-ESPPB</codigo_fabricante>
-    <descripcion>TARJETA DE VIDEO PNY(VCQP4000-ESPPB) QUADRO P40008GB GDDR5, 256BITS, MDP*4</descripcion>
-    <marca>PNY</marca>
-    <disponible>1</disponible>
-    <precio>714.53</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>TARJETAS DE VIDEO</categoria>
-  </item>
-  <item>
     <clave>DDSANTOS5UZSVA</clave>
     <codigo_fabricante>HDWK105UZSVA</codigo_fabricante>
     <descripcion>DISCO DURO TOSHIBA 2.5" 500GB (HDWK105UZSVA), 7MM,5400 RPM, 8MB, SATA3</descripcion>
@@ -4075,7 +3778,7 @@
     <codigo_fabricante>PG27UQ</codigo_fabricante>
     <descripcion>MONITOR LED ASUS 27" ROG SWIFT (PG27UQ) 3840X2160,4K UHD,144HZ,4MS,G-SYNC HDR,IPS,HDMI 2.0,DP 1.4</descripcion>
     <marca>ASUS</marca>
-    <disponible>16</disponible>
+    <disponible>15</disponible>
     <precio>1696.41</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -4086,7 +3789,7 @@
     <codigo_fabricante>VP278QG</codigo_fabricante>
     <descripcion>MONITOR LED ASUS 27" (VP278QG) 1920X1080 FHD,75HZ,1MS,FREESYNC,DP 2*HDMI VGA,ANTIPARPADEO</descripcion>
     <marca>ASUS</marca>
-    <disponible>3</disponible>
+    <disponible>4</disponible>
     <precio>179.91</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -4108,7 +3811,7 @@
     <codigo_fabricante>CMW16GX4M2C3000C15</codigo_fabricante>
     <descripcion>MEMORIA DIMM DDR4 CORSAIR (CMW16GX4M2C3000C15) 16GB 3000MHZ (2X8GB) VENGEANCE RGB PRO</descripcion>
     <marca>CORSAIR</marca>
-    <disponible>13</disponible>
+    <disponible>5</disponible>
     <precio>113.47</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -4141,7 +3844,7 @@
     <codigo_fabricante>MCB-E300L-KN5N-B02</codigo_fabricante>
     <descripcion>GABINETE COOLER MASTER (MCB-E300L-KN5N-B02) MASTERBOX E300L, NEGRO-PLATA, MICRO-ATX, SIN FUENTE</descripcion>
     <marca>COOLER MASTER</marca>
-    <disponible>14</disponible>
+    <disponible>7</disponible>
     <precio>37.62</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -4159,55 +3862,22 @@
     <categoria>GABINETES</categoria>
   </item>
   <item>
-    <clave>FP24PTHE1500MPC</clave>
-    <codigo_fabricante>PS-TPD-1500MPCGUS-1</codigo_fabricante>
-    <descripcion>FUENTE DE PODER THERMALTAKE (PS-TPD-1500MPCGUS-1) 1500W GOLD TOUGHPOWER</descripcion>
-    <marca>THERMALTAKE</marca>
-    <disponible>1</disponible>
-    <precio>268.84</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>FUENTES DE PODER</categoria>
-  </item>
-  <item>
     <clave>TEMEMTHEBLBRSP</clave>
     <codigo_fabricante>KB-TPX-BLBRSP-01</codigo_fabricante>
     <descripcion>TECLADO THERMALTAKE (KB-TPX-BLBRSP-01) TT PREMIUM X1 RGB, CHERRY MX BLUE, ESPA¥OL</descripcion>
     <marca>THERMALTAKE</marca>
-    <disponible>26</disponible>
+    <disponible>25</disponible>
     <precio>95.07</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
     <categoria>TECLADOS</categoria>
   </item>
   <item>
-    <clave>VECPUCMAMA410MT</clave>
-    <codigo_fabricante>MAM-T4PN-AFNPC-R1</codigo_fabricante>
-    <descripcion>VENTILADOR P/CPU COOLER MASTER (MAM-T4PN-AFNPC-R1) MASTERAIR MA410M TUF EDITION,RGB,INTEL/AMD</descripcion>
-    <marca>COOLER MASTER</marca>
-    <disponible>2</disponible>
-    <precio>43.44</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>Si</en_promocion>
-    <categoria>ENFRIAMIENTO Y VENTILACION</categoria>
-  </item>
-  <item>
-    <clave>VECPUCMAMA610PT</clave>
-    <codigo_fabricante>MAP-D6PN-AFNPC-R1</codigo_fabricante>
-    <descripcion>VENTILADOR P/CPU COOLER MASTER (MAP-D6PN-AFNPC-R1) MASTERAIR MA620P TUF EDITION,RGB,INTEL/AMD</descripcion>
-    <marca>COOLER MASTER</marca>
-    <disponible>3</disponible>
-    <precio>39.89</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>Si</en_promocion>
-    <categoria>ENFRIAMIENTO Y VENTILACION</categoria>
-  </item>
-  <item>
     <clave>MOLEDASUVP228HE</clave>
     <codigo_fabricante>VP228HE</codigo_fabricante>
     <descripcion>MONITOR LED ASUS 21.5" (VP228HE) 1920X1080 FHD,1MS,HDMI,VGA,BOCINAS,NEGRO</descripcion>
     <marca>ASUS</marca>
-    <disponible>1113</disponible>
+    <disponible>1036</disponible>
     <precio>79.88</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -4229,19 +3899,8 @@
     <codigo_fabricante>TURBO-RTX2080TI-11G</codigo_fabricante>
     <descripcion>TARJETA DE VIDEO ASUS (TURBO-RTX2080TI-11G),GDDR6352BITS,PCI-E 3.0,HDMI2.0B 2*DP1.4 USB TYPE-C</descripcion>
     <marca>ASUS</marca>
-    <disponible>5</disponible>
+    <disponible>3</disponible>
     <precio>1102.98</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>Si</en_promocion>
-    <categoria>TARJETAS DE VIDEO</categoria>
-  </item>
-  <item>
-    <clave>TVPCEASUD208O8G</clave>
-    <codigo_fabricante>DUAL-RTX2080-O8G</codigo_fabricante>
-    <descripcion>TARJETA DE VIDEO ASUS (DUAL-RTX2080-O8G),GDDR6 256BITS,PCI-E 3.0, HDMI2.0B 3*DP1.4 USB TYPE-C</descripcion>
-    <marca>ASUS</marca>
-    <disponible>1</disponible>
-    <precio>746.22</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
     <categoria>TARJETAS DE VIDEO</categoria>
@@ -4269,34 +3928,12 @@
     <categoria>TARJETAS DE VIDEO</categoria>
   </item>
   <item>
-    <clave>MB151ASURSZ390EG</clave>
-    <codigo_fabricante>ROG STRIX Z390-E GAMING</codigo_fabricante>
-    <descripcion>MOTHERBOARD ASUS (ROG STRIX Z390-E GAMING) SOCKET1151 9A,4*DDR4 4266,DP,HDMI,2*M.2,SUPREME FX, ATX</descripcion>
-    <marca>ASUS</marca>
-    <disponible>5</disponible>
-    <precio>208.53</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>MOTHERBOARDS</categoria>
-  </item>
-  <item>
     <clave>MB151ASURSZ390HG</clave>
     <codigo_fabricante>ROG STRIX Z390-H GAMING</codigo_fabricante>
     <descripcion>MOTHERBOARD ASUS (ROG STRIX Z390-H GAMING) SOCKET1151 9A,4*DDR4 4266,DP,HDMI,2*M.2,AURA RGB,ATX</descripcion>
     <marca>ASUS</marca>
-    <disponible>7</disponible>
+    <disponible>6</disponible>
     <precio>159.83</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>Si</en_promocion>
-    <categoria>MOTHERBOARDS</categoria>
-  </item>
-  <item>
-    <clave>MB151ASUTZ390PGW</clave>
-    <codigo_fabricante>TUF Z390-PLUS GAMING (WI-</codigo_fabricante>
-    <descripcion>MOTHERBOARD ASUS (TUF Z390-PLUS GAMING WI-FI),SOCKKET 1151 9A,4*DDR4 4266,DP HDMI,2*M.2,AURA RGB,ATX</descripcion>
-    <marca>ASUS</marca>
-    <disponible>1</disponible>
-    <precio>150.27</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
     <categoria>MOTHERBOARDS</categoria>
@@ -4306,40 +3943,18 @@
     <codigo_fabricante>PRIME Z390-P</codigo_fabricante>
     <descripcion>MOTHERBOARD ASUS (PRIME Z390-P),SOCKET 1151 9A,4*DDR4 4266,DP HDMI,2*M.2,OVERCLOCKING PROTECION,ATX</descripcion>
     <marca>ASUS</marca>
-    <disponible>10</disponible>
+    <disponible>8</disponible>
     <precio>128.80</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
     <categoria>MOTHERBOARDS</categoria>
   </item>
   <item>
-    <clave>TVPCEGBTRX570G8G</clave>
-    <codigo_fabricante>GV-RX570GAMING-8GD</codigo_fabricante>
-    <descripcion>TARJETA DE VIDEO GIGABYTE (GV-RX570GAMING-8GD) RX570 GAMING 8GB GDDR5 256BIT,HDMI DP*3 DVI-D</descripcion>
-    <marca>GIGABYTE</marca>
-    <disponible>1</disponible>
-    <precio>208.45</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>Si</en_promocion>
-    <categoria>TARJETAS DE VIDEO</categoria>
-  </item>
-  <item>
-    <clave>BABRXGBTLCE4105C</clave>
-    <codigo_fabricante>GB-BLCE-4105C</codigo_fabricante>
-    <descripcion>MINI PC BAREBONE BRIX GIGABYTE GB-BLCE-4105C,CELERON 4CORE J4105,2*SODIMM DDR4 2400,2.5",HDMI,MINI-D</descripcion>
-    <marca>GIGABYTE</marca>
-    <disponible>9</disponible>
-    <precio>118.98</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>Si</en_promocion>
-    <categoria>MINI PC Y PORTATILES</categoria>
-  </item>
-  <item>
     <clave>DDSA3SEA6TDM003</clave>
     <codigo_fabricante>ST6000DM003</codigo_fabricante>
     <descripcion>DISCO DURO SEAGATE 3.5" 6TB (ST6000DM003), 7200 RPM, 64MB, SATA3</descripcion>
     <marca>SEAGATE</marca>
-    <disponible>40</disponible>
+    <disponible>39</disponible>
     <precio>120.11</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -4350,7 +3965,7 @@
     <codigo_fabricante>WDS240G2G0B</codigo_fabricante>
     <descripcion>UNIDAD M.2 SSD WD (WDS240G2G0B) GREEN 240GB FORMATO M.2 2280</descripcion>
     <marca>WD</marca>
-    <disponible>4</disponible>
+    <disponible>9</disponible>
     <precio>26.99</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -4361,7 +3976,7 @@
     <codigo_fabricante>YNH-K1100</codigo_fabricante>
     <descripcion>GABINETE QIAN YEYIAN (YNH-K1100) DISCO DURO 2HDD 2SDD USB Y AUDIO NEGRO TRAN.SIN FUENTE.(KALT1100)</descripcion>
     <marca>QIAN</marca>
-    <disponible>5</disponible>
+    <disponible>16</disponible>
     <precio>23.72</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -4372,8 +3987,19 @@
     <codigo_fabricante>YNH-K1102</codigo_fabricante>
     <descripcion>GABINETE QIAN YEYIAN (YNH-K1102) 4 BAHIAS DISCODURO 1 HDD 1 SDD NEGRO SIN FUENTE.(KALT 1102)</descripcion>
     <marca>QIAN</marca>
-    <disponible>4</disponible>
+    <disponible>5</disponible>
     <precio>22.69</precio>
+    <moneda>Dolares</moneda>
+    <en_promocion>No</en_promocion>
+    <categoria>GABINETES</categoria>
+  </item>
+  <item>
+    <clave>GASFTQIAK1101</clave>
+    <codigo_fabricante>YNH-K1101</codigo_fabricante>
+    <descripcion>GABINETE QIAN YEYIAN (YNH-K1101)DD 2 HDD 2 SDDNEGRO TRANSPARENTE LED AZUL SIN FUENTE.(KALT 1101)</descripcion>
+    <marca>QIAN</marca>
+    <disponible>5</disponible>
+    <precio>23.82</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
     <categoria>GABINETES</categoria>
@@ -4383,7 +4009,7 @@
     <codigo_fabricante>YNH-B2100</codigo_fabricante>
     <descripcion>GABINETE QIAN YEYIAN (YNH-B2100) DISCO DURO 2HDD 2SDD USB Y AUDIO NEGRO TRAN,SIN FUENTE.(BLADE2100)</descripcion>
     <marca>QIAN</marca>
-    <disponible>13</disponible>
+    <disponible>12</disponible>
     <precio>30.16</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -4438,7 +4064,7 @@
     <codigo_fabricante>QAMA18001</codigo_fabricante>
     <descripcion>MOUSE OPTICO DIAN ALAMBRICO QIAN (QAMA18001)1200DPI USB</descripcion>
     <marca>QIAN</marca>
-    <disponible>2</disponible>
+    <disponible>12</disponible>
     <precio>2.04</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -4458,10 +4084,21 @@
   <item>
     <clave>MOLEDQIAM1538001</clave>
     <codigo_fabricante>QM1538001</codigo_fabricante>
-    <descripcion>MONITOR QIAN 15.4"(QM1538001) HD DVI/HDMI 1280X800VESA 2 ORIFI</descripcion>
+    <descripcion>MONITOR QIAN 15.4"(QM1538001), VGA, 1280X800, VESA 2 ORIFICIOS</descripcion>
     <marca>QIAN</marca>
-    <disponible>9</disponible>
+    <disponible>6</disponible>
     <precio>42.01</precio>
+    <moneda>Dolares</moneda>
+    <en_promocion>No</en_promocion>
+    <categoria>MONITORES</categoria>
+  </item>
+  <item>
+    <clave>MOLEDQIAQM191702</clave>
+    <codigo_fabricante>QM191702</codigo_fabricante>
+    <descripcion>MONITOR QIAN 19,5" (QM19100/QM191702) VGA HDMI1600X900, VESA 2 ORIFI</descripcion>
+    <marca>QIAN</marca>
+    <disponible>10</disponible>
+    <precio>56.02</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
     <categoria>MONITORES</categoria>
@@ -4504,7 +4141,7 @@
     <codigo_fabricante>TUF Z390M-PRO GAMING (WI-</codigo_fabricante>
     <descripcion>MOTHERBOARD ASUS (TUF Z390M-PRO GAMING WI-FI)SOCKET 1151 9A,4*DDR4 4266,DP,HDMI,2*M.2,AURA RGB, ATX</descripcion>
     <marca>ASUS</marca>
-    <disponible>6</disponible>
+    <disponible>5</disponible>
     <precio>150.27</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -4515,7 +4152,7 @@
     <codigo_fabricante>EV-1004</codigo_fabricante>
     <descripcion>GABINETE EVOTEC (EV-1004) ATX/MINI ATX/MICRO ATX.FUENTE DE 600W,2 USB 3.0 NEGRO</descripcion>
     <marca>EVOTEC</marca>
-    <disponible>12</disponible>
+    <disponible>9</disponible>
     <precio>21.47</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -4553,6 +4190,17 @@
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
     <categoria>PUNTO DE VENTA</categoria>
+  </item>
+  <item>
+    <clave>MOLEDQIAQM211701</clave>
+    <codigo_fabricante>QM2128001</codigo_fabricante>
+    <descripcion>MONITOR QIAN 21.5" (QM2128001) VGA/HDMI 1920X1080VESA 2 ORIFICIOS.</descripcion>
+    <marca>QIAN</marca>
+    <disponible>10</disponible>
+    <precio>71.04</precio>
+    <moneda>Dolares</moneda>
+    <en_promocion>No</en_promocion>
+    <categoria>MONITORES</categoria>
   </item>
   <item>
     <clave>TEBTHQIACTB18001</clave>
@@ -4658,7 +4306,7 @@
     <codigo_fabricante>GK-KM3100-SP</codigo_fabricante>
     <descripcion>TECLADO Y MOUSE GIGABYTE (KM-3100) ALAMBRICO USB 800 DPI,AMBIDIESTRO,ANTIDERRAMES,NEGRO,ESPANOL</descripcion>
     <marca>GIGABYTE</marca>
-    <disponible>25</disponible>
+    <disponible>24</disponible>
     <precio>11.04</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -4669,7 +4317,7 @@
     <codigo_fabricante>AD7480ACABBOX</codigo_fabricante>
     <descripcion>PROCESADOR AMD (AD7480ACABBOX) APU A6-7480 S-FM2+2CORE 3.8GHZ 65W GRAF.RADEON R5 C/FAN D1</descripcion>
     <marca>AMD</marca>
-    <disponible>157</disponible>
+    <disponible>127</disponible>
     <precio>28.20</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -4680,7 +4328,7 @@
     <codigo_fabricante>YD200GC6FBBOX</codigo_fabricante>
     <descripcion>PROCESADOR AMD (YD200GC6M2OFB) APU ATHLON 200GE S-AM4 2CORE 3.2GHZ 65W GRAF.VEGA3 C/FAN D1</descripcion>
     <marca>AMD</marca>
-    <disponible>58</disponible>
+    <disponible>57</disponible>
     <precio>48.22</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -4856,7 +4504,7 @@
     <codigo_fabricante>CL-F069-PL20SW-A</codigo_fabricante>
     <descripcion>VENTILADOR P/GAB. THERMALTAKE (CL-F069-PL20SW-A) 200MM, RIING PLUS 20 RGB TT PREMIUM C/CONTROLADOR</descripcion>
     <marca>THERMALTAKE</marca>
-    <disponible>8</disponible>
+    <disponible>7</disponible>
     <precio>48.56</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -4867,7 +4515,7 @@
     <codigo_fabricante>CL-W097-CA00SL-A</codigo_fabricante>
     <descripcion>FITTING THERMALTAKE PACIFIC (CL-W097-CA00SL-A) G1/4 PETG CODO 90ø COMPRESSION OD 16MM CROMADO</descripcion>
     <marca>THERMALTAKE</marca>
-    <disponible>7</disponible>
+    <disponible>8</disponible>
     <precio>11.76</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -4878,7 +4526,7 @@
     <codigo_fabricante>RR-I71C-20PC-R1</codigo_fabricante>
     <descripcion>VENTILADOR P/CPU COOLER MASTER (RR-I71C-20PC-R1) I71C 120MM, RGB, INTEL 1156/1155/1551/1150</descripcion>
     <marca>COOLER MASTER</marca>
-    <disponible>82</disponible>
+    <disponible>74</disponible>
     <precio>15.33</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -4900,7 +4548,7 @@
     <codigo_fabricante>GV-N2070GAMING OC-8GC</codigo_fabricante>
     <descripcion>TARJETA DE VIDEO GIGABYTE (GV-N2070GAMING OC-8GC)RTX 2070 OC GDDR6 256BIT PCIE 3.0,HDMI*1 DP*3</descripcion>
     <marca>GIGABYTE</marca>
-    <disponible>293</disponible>
+    <disponible>223</disponible>
     <precio>496.80</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -4911,7 +4559,7 @@
     <codigo_fabricante>MCM-H500-IGNN-S00</codigo_fabricante>
     <descripcion>GABINETE COOLER MASTER (MCM-H500-IGNN-S00) MASTERCASE H500, RGB, VIDRIO TEMP, GRIS, ATX, SIN FUENTE</descripcion>
     <marca>COOLER MASTER</marca>
-    <disponible>9</disponible>
+    <disponible>8</disponible>
     <precio>89.96</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -4922,7 +4570,7 @@
     <codigo_fabricante>MCB-B530P-KHNN-S01</codigo_fabricante>
     <descripcion>GABINETE COOLER MASTER (MCB-B530P-KHNN-S01) MASTERBOX MB530P,RGB,NEGRO,VIDRIO TEMP,ATX,SIN FUENTE</descripcion>
     <marca>COOLER MASTER</marca>
-    <disponible>10</disponible>
+    <disponible>8</disponible>
     <precio>96.60</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -4944,7 +4592,7 @@
     <codigo_fabricante>ST500LM030</codigo_fabricante>
     <descripcion>DISCO DURO SEAGATE 2.5" 500GB ST500LM030 7MM, 5400 RPM, 8MB, SATA3</descripcion>
     <marca>SEAGATE</marca>
-    <disponible>77</disponible>
+    <disponible>75</disponible>
     <precio>31.69</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -4955,7 +4603,7 @@
     <codigo_fabricante>ROG-STRIX-RTX2080TI-O11G-</codigo_fabricante>
     <descripcion>TARJETA DE VIDEO ASUS (ROG-STRIX-RTX2080TI-O11G-GAMING),GDDR6 352BITS,PCI-E 3.0, HDMI2.0B 3*DP1.4</descripcion>
     <marca>ASUS</marca>
-    <disponible>8</disponible>
+    <disponible>7</disponible>
     <precio>1155.11</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -5039,17 +4687,6 @@
     <categoria>ENFRIAMIENTO Y VENTILACION</categoria>
   </item>
   <item>
-    <clave>VEGABTHEF072</clave>
-    <codigo_fabricante>CL-F072-PL12SW-A</codigo_fabricante>
-    <descripcion>VENTILADOR P/GAB. THERMALTAKE (CL-F072-PL12SW-A) 120MM, RIING TRIO 12 LED RGB TT PREMIUM, 3 PACK</descripcion>
-    <marca>THERMALTAKE</marca>
-    <disponible>2</disponible>
-    <precio>97.11</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>ENFRIAMIENTO Y VENTILACION</categoria>
-  </item>
-  <item>
     <clave>AFUSBTHECRA</clave>
     <codigo_fabricante>HT-CRA-DIECBK-20</codigo_fabricante>
     <descripcion>AUDIFONOS THERMALTAKE (HT-CRA-DIECBK-20) CRONOS RIING RGB DIGITAL 3D 7.1</descripcion>
@@ -5065,7 +4702,7 @@
     <codigo_fabricante>RT-N66R</codigo_fabricante>
     <descripcion>ROUTER ASUS (RT-N66R) DUJAL BAND, 3 ANTENAS, N9002.4GHZ/900MBPS, 5.0GHZ</descripcion>
     <marca>ASUS</marca>
-    <disponible>585</disponible>
+    <disponible>584</disponible>
     <precio>29.13</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -5142,7 +4779,7 @@
     <codigo_fabricante>BX80684G4920</codigo_fabricante>
     <descripcion>PROCESADOR INTEL (BX80684G4920) CELERON G4920 S-1151 2CORE 3.2 GHZ 54W GRAFICOS</descripcion>
     <marca>INTEL</marca>
-    <disponible>282</disponible>
+    <disponible>278</disponible>
     <precio>47.84</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -5175,7 +4812,7 @@
     <codigo_fabricante>BX80684I59600K</codigo_fabricante>
     <descripcion>PROCESADOR INTEL (BX80684I59600K) CORE I5-9600K S-1151 6CORE 3.7GHZ SIN VENTILADOR GRAFICOS HD 630</descripcion>
     <marca>INTEL</marca>
-    <disponible>32</disponible>
+    <disponible>23</disponible>
     <precio>234.09</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -5197,7 +4834,7 @@
     <codigo_fabricante>PSD44G213382S</codigo_fabricante>
     <descripcion>MEMORIA SODIMM DDR4 PATRIOT (PSD44G213382S) 4GB 2133MHZ  SIGNATURE</descripcion>
     <marca>PATRIOT</marca>
-    <disponible>2</disponible>
+    <disponible>1</disponible>
     <precio>24.33</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -5213,6 +4850,17 @@
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
     <categoria>VIDEO VIGILANCIA</categoria>
+  </item>
+  <item>
+    <clave>FP24PYEYPS650</clave>
+    <codigo_fabricante>YPE-PS650</codigo_fabricante>
+    <descripcion>FUENTE DE PODER YEYIAN (YPE-PS650) ATX 12V 650W 80PLUS BRONZE (THUNDER SERIE 650)</descripcion>
+    <marca>YEYIAN</marca>
+    <disponible>5</disponible>
+    <precio>39.87</precio>
+    <moneda>Dolares</moneda>
+    <en_promocion>No</en_promocion>
+    <categoria>FUENTES DE PODER</categoria>
   </item>
   <item>
     <clave>TEUSBYEY1801</clave>
@@ -5241,7 +4889,7 @@
     <codigo_fabricante>YAT1803</codigo_fabricante>
     <descripcion>TECLADO YEYIAN (YAT1803)GAMING SWITCH ROJO 104TECLAS RGB. 14 EFECTOS. DESCANSA MU¥ECAS.FLARE</descripcion>
     <marca>YEYIAN</marca>
-    <disponible>5</disponible>
+    <disponible>3</disponible>
     <precio>31.28</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -5263,7 +4911,7 @@
     <codigo_fabricante>YAT1805</codigo_fabricante>
     <descripcion>TECLADO YEYIAN (YAT1805)GAMING SWITCH CAFE. 87TECLAS.RGB. 8 EFECTOS.SPARK</descripcion>
     <marca>YEYIAN</marca>
-    <disponible>5</disponible>
+    <disponible>2</disponible>
     <precio>26.99</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -5274,7 +4922,7 @@
     <codigo_fabricante>YAT1806</codigo_fabricante>
     <descripcion>TECLADO YEYIAN (YAT1806)GAMING SWITCH ROJO. 87TECLAS.RGB. 8 EFECTOS.SPARK</descripcion>
     <marca>YEYIAN</marca>
-    <disponible>2</disponible>
+    <disponible>1</disponible>
     <precio>26.99</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -5351,7 +4999,7 @@
     <codigo_fabricante>CC-9011146-WW</codigo_fabricante>
     <descripcion>GABINETE CORSAIR (CC-9011146-WW) SPEC-06 RGB NEGRO, VIDRIO TEMPLADO, SIN FUENTE</descripcion>
     <marca>CORSAIR</marca>
-    <disponible>11</disponible>
+    <disponible>9</disponible>
     <precio>66.57</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -5395,21 +5043,10 @@
     <codigo_fabricante>CC-9011137-WW</codigo_fabricante>
     <descripcion>GABINETE CORSAIR (CC-9011137-WW) CRYSTAL 280X RGBVIDRIO TEMPLADO, MICRO-ATX, BLANCO, SIN FUENTE</descripcion>
     <marca>CORSAIR</marca>
-    <disponible>5</disponible>
+    <disponible>4</disponible>
     <precio>128.29</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
-    <categoria>GABINETES</categoria>
-  </item>
-  <item>
-    <clave>GASFTCMAMB500D</clave>
-    <codigo_fabricante>MCB-B500D-KGNN-S00</codigo_fabricante>
-    <descripcion>GABINETE COOLER MASTER (MCB-B500D-KGNN-S00) MB500,RGB, NEGRO, VIDRIO TEMPLADO, ATX, SIN FUENTE</descripcion>
-    <marca>COOLER MASTER</marca>
-    <disponible>2</disponible>
-    <precio>52.64</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>No</en_promocion>
     <categoria>GABINETES</categoria>
   </item>
   <item>
@@ -5450,7 +5087,7 @@
     <codigo_fabricante>DUAL-RTX2060-O6G</codigo_fabricante>
     <descripcion>TARJETA DE VIDEO ASUS (DUAL-RTX2060-O6G) GDDR6 192BITS,PCI-E 3.0, HDMI*2,DP*2,DVI-D</descripcion>
     <marca>ASUS</marca>
-    <disponible>32</disponible>
+    <disponible>31</disponible>
     <precio>341.42</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -5461,7 +5098,7 @@
     <codigo_fabricante>ROG-STRIX-RTX2060-O6G-GAM</codigo_fabricante>
     <descripcion>TARJETA DE VIDEO ASUS (ROG-STRIX-RTX2060-O6G-GAMING) GDDR6 192BITS,PCI-E 3.0, HDMI*2,DP*2</descripcion>
     <marca>ASUS</marca>
-    <disponible>72</disponible>
+    <disponible>68</disponible>
     <precio>366.98</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -5494,8 +5131,8 @@
     <codigo_fabricante>ROG-STRIX-RTX2080TI-11G-G</codigo_fabricante>
     <descripcion>TARJETA DE VIDEO ASUS (ROG-STRIX-RTX2080TI-11G-GAMING),GDDR6 352BITS, 2*HDMI2.0B,2*DP1.4,USB TYPE-C</descripcion>
     <marca>ASUS</marca>
-    <disponible>5</disponible>
-    <precio>1137.73</precio>
+    <disponible>2</disponible>
+    <precio>1078.44</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
     <categoria>TARJETAS DE VIDEO</categoria>
@@ -5549,7 +5186,7 @@
     <codigo_fabricante>FG500WBX</codigo_fabricante>
     <descripcion>FUENTE DE PODER GETTTECH (FG500WBX) ATX.24 PINES.500W PS500W. 12V/4 PINES.SATA 2/IDE 2.</descripcion>
     <marca>GETTTECH</marca>
-    <disponible>48</disponible>
+    <disponible>44</disponible>
     <precio>7.36</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -5560,7 +5197,7 @@
     <codigo_fabricante>GG1801</codigo_fabricante>
     <descripcion>GABINETE GETTTECH (GG1801) ATX/MATX CON FUENTE500W NEGRO</descripcion>
     <marca>GETTTECH</marca>
-    <disponible>13</disponible>
+    <disponible>12</disponible>
     <precio>19.42</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -5571,7 +5208,7 @@
     <codigo_fabricante>GG1802</codigo_fabricante>
     <descripcion>GABINETE GETTTECH (GG1802) ATX/MATX CON FUENTE500W NEGRO</descripcion>
     <marca>GETTTECH</marca>
-    <disponible>13</disponible>
+    <disponible>10</disponible>
     <precio>19.42</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -5582,7 +5219,7 @@
     <codigo_fabricante>CC-9011132-WW</codigo_fabricante>
     <descripcion>GABINETE CORSAIR (CC-9011132-WW) CARBIDE 275R NEGRO, VENTANA C. TEMPLADO</descripcion>
     <marca>CORSAIR</marca>
-    <disponible>13</disponible>
+    <disponible>8</disponible>
     <precio>62.87</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -5593,7 +5230,7 @@
     <codigo_fabricante>CC-9011133-WW</codigo_fabricante>
     <descripcion>GABINETE CORSAIR (CC-9011133-WW) CARBIDE 275R BLANCO, VENTANA C. TEMPLADO</descripcion>
     <marca>CORSAIR</marca>
-    <disponible>21</disponible>
+    <disponible>1</disponible>
     <precio>64.91</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -5604,7 +5241,7 @@
     <codigo_fabricante>CC-9011138-WW</codigo_fabricante>
     <descripcion>GABINETE CORSAIR (CC-9011138-WW) SPEC-05 VENTANA ACRILICO, NEGRO, SIN FUENTE</descripcion>
     <marca>CORSAIR</marca>
-    <disponible>34</disponible>
+    <disponible>33</disponible>
     <precio>42.22</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -5659,19 +5296,8 @@
     <codigo_fabricante>ZT-T20600F-10M</codigo_fabricante>
     <descripcion>TARJETA DE VIDEO ZOTAC (ZT-T20600F-10M) RTX 2060 6GB GDDR6,192 BIT,HDCP,DP*3,HDMI</descripcion>
     <marca>ZOTAC</marca>
-    <disponible>12</disponible>
+    <disponible>6</disponible>
     <precio>313.82</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>TARJETAS DE VIDEO</categoria>
-  </item>
-  <item>
-    <clave>TVPCEZOTT20700A</clave>
-    <codigo_fabricante>ZT-T20700A-10P</codigo_fabricante>
-    <descripcion>TARJETA DE VIDEO ZOTAC (ZT-T20700A-10P) RTX 2070 8GB GDDR6, 256BIT,HDCP,DP*3,HDMI</descripcion>
-    <marca>ZOTAC</marca>
-    <disponible>2</disponible>
-    <precio>431.38</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
     <categoria>TARJETAS DE VIDEO</categoria>
@@ -5703,7 +5329,7 @@
     <codigo_fabricante>11233-02-20G</codigo_fabricante>
     <descripcion>TARJETA DE VIDEO SAPPHIRE 11233-02-20G R5 230 2GBDDR3 PCI-E HDMI*1,DVI-D*1,VGA*1 UEFI</descripcion>
     <marca>SAPPHIRE</marca>
-    <disponible>4</disponible>
+    <disponible>5</disponible>
     <precio>36.70</precio>
     <moneda>Dolares</moneda>
     <en_promocion>Si</en_promocion>
@@ -5798,22 +5424,11 @@
     <categoria>ALMACENAMIENTO</categoria>
   </item>
   <item>
-    <clave>PR151INTG5400</clave>
-    <codigo_fabricante>BX80684G5400</codigo_fabricante>
-    <descripcion>PROCESADOR INTEL (BX80684G5400) PENTIUM GOLD G5400 S-1151 2CORE 3.7GHZ 51W GRAFICOS HD 610</descripcion>
-    <marca>INTEL</marca>
-    <disponible>103</disponible>
-    <precio>60.82</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>PROCESADORES</categoria>
-  </item>
-  <item>
     <clave>VECPUCOR8960054</clave>
     <codigo_fabricante>CW-8960054</codigo_fabricante>
     <descripcion>BRACKET CORSAIR TR4 (CW-8960054) PARA HYDRO SERIESH100I PRO/H115I PRO/H150I PRO</descripcion>
     <marca>CORSAIR</marca>
-    <disponible>1</disponible>
+    <disponible>2</disponible>
     <precio>5.93</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -5857,7 +5472,7 @@
     <codigo_fabricante>HDWL110UZSVA</codigo_fabricante>
     <descripcion>DISCO DURO TOSHIBA 2.5" 1TB (HDWL110UZSVA) L200, 7MM, 5400 RPM, 128MB, SATA3</descripcion>
     <marca>TOSHIBA</marca>
-    <disponible>70</disponible>
+    <disponible>50</disponible>
     <precio>35.06</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -5868,7 +5483,7 @@
     <codigo_fabricante>PH-RTX2060-6G</codigo_fabricante>
     <descripcion>TARJETA DE VIDEO ASUS (PH-RTX2060-6G) GDDR6 192BITS,PCI-E 3.0, DVI-D HDMI*2.0B,DP*1.4,SINGLE FAN</descripcion>
     <marca>ASUS</marca>
-    <disponible>30</disponible>
+    <disponible>26</disponible>
     <precio>315.87</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -5879,7 +5494,7 @@
     <codigo_fabricante>DUAL-GTX1660TI-O6G</codigo_fabricante>
     <descripcion>TARJETA DE VIDEO ASUS (DUAL-GTX1660TI-O6G) GDDR6 192BITS,PCI-E 3.0, DVI-D HDMI*2.0B,DP*1.4</descripcion>
     <marca>ASUS</marca>
-    <disponible>42</disponible>
+    <disponible>41</disponible>
     <precio>269.87</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -5890,7 +5505,7 @@
     <codigo_fabricante>ZT-T16610F-10L</codigo_fabricante>
     <descripcion>TARJETA DE VIDEO ZOTAC (ZT-T16610F-10L) GTX 1660TI 6GB 192BIT GDDR5 HDMI,DP*3</descripcion>
     <marca>ZOTAC</marca>
-    <disponible>74</disponible>
+    <disponible>70</disponible>
     <precio>251.47</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -5912,8 +5527,8 @@
     <codigo_fabricante>0F17719</codigo_fabricante>
     <descripcion>DISCO DURO 3.5" HGST 4TB (0F17719) ULTRASTAR, 7200RPM, SATA3, NEW PULLS</descripcion>
     <marca>HGST</marca>
-    <disponible>561</disponible>
-    <precio>50.60</precio>
+    <disponible>551</disponible>
+    <precio>51.72</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
     <categoria>ALMACENAMIENTO</categoria>
@@ -5930,20 +5545,9 @@
     <categoria>TECLADOS</categoria>
   </item>
   <item>
-    <clave>DDSARWDI6TB</clave>
-    <codigo_fabricante>DDSARWDI6TB</codigo_fabricante>
-    <descripcion>DISCO DURO WD PURPLE 3.5" 6TB (WD60PURZ), RECERTIFICADO, 5400 RPM, 64MB, SATA3</descripcion>
-    <marca>WD</marca>
-    <disponible>2</disponible>
-    <precio>145.16</precio>
-    <moneda>Dolares</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>ALMACENAMIENTO</categoria>
-  </item>
-  <item>
     <clave>MPCSOECSNB3024</clave>
     <codigo_fabricante>95-779-NB3024</codigo_fabricante>
-    <descripcion>MINI PC LIVA ECS XE CELERON J3060 1.60GHZ, 2GB(DDR3L),32GB EMMC,HDMI,VGA S/WIN10</descripcion>
+    <descripcion>MINI PC LIVA ECS XE CELERON J3060 1.60GHZ, 2GB(DDR3L),32GB EMMC,HDMI,VGA SIN WINDOWS</descripcion>
     <marca>ECS</marca>
     <disponible>6</disponible>
     <precio>99.97</precio>
@@ -5956,7 +5560,7 @@
     <codigo_fabricante>H310CH5-M2</codigo_fabricante>
     <descripcion>MOTHERBOARD ECS H310CH5-M2 SOCKET 1151, DDR4*2,MATX,PS2,VGA,HDMI,GLAN</descripcion>
     <marca>ECS</marca>
-    <disponible>700</disponible>
+    <disponible>436</disponible>
     <precio>39.66</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -6040,11 +5644,22 @@
     <categoria>TECLADOS</categoria>
   </item>
   <item>
+    <clave>MOLEDYEYMG2400</clave>
+    <codigo_fabricante>MG2400</codigo_fabricante>
+    <descripcion>MONITOR YEYIAN 23.6"(MG2400)ODRAZ SERIE 1000 FULLHD/144HZ/1MS/HDMI/DP/MG2400.</descripcion>
+    <marca>YEYIAN</marca>
+    <disponible>8</disponible>
+    <precio>129.31</precio>
+    <moneda>Dolares</moneda>
+    <en_promocion>No</en_promocion>
+    <categoria>MONITORES</categoria>
+  </item>
+  <item>
     <clave>MOLEDYEYMG2700</clave>
     <codigo_fabricante>MG2700</codigo_fabricante>
     <descripcion>MONITOR YEYIAN 27"(MG2700)ODRAZ SERIE 2000.FULLHD/165HZ/1MS/HDMI/DP/MG2700</descripcion>
     <marca>YEYIAN</marca>
-    <disponible>2</disponible>
+    <disponible>5</disponible>
     <precio>167.13</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -6066,7 +5681,7 @@
     <codigo_fabricante>WD10EURX</codigo_fabricante>
     <descripcion>DISCO DURO WD 3.5" 1TB (WD10EURX) RECERTIFICADO DE FABRICA, 7200 RPM, SATA3</descripcion>
     <marca>WD</marca>
-    <disponible>993</disponible>
+    <disponible>992</disponible>
     <precio>27.60</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -6187,7 +5802,7 @@
     <codigo_fabricante>ROG MAXIMUS XI CODE</codigo_fabricante>
     <descripcion>MOTHERBOARD ASUS (ROG MAXIMUS XI CODE),SOCKET 1151,Z390,4*DDR4 4400,HDMI,S/PDIF,WIFI,BT5.0,ATX</descripcion>
     <marca>ASUS</marca>
-    <disponible>3</disponible>
+    <disponible>2</disponible>
     <precio>316.89</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -6242,7 +5857,7 @@
     <codigo_fabricante>MPX-6501-AMAAB-SF</codigo_fabricante>
     <descripcion>FUENTE DE PODER COOLER MASTER (MPX-6501-AMAAB-SF)TUF EDITION 650W, SEMIMODULAR, 80PLUS BRONCE</descripcion>
     <marca>COOLER MASTER</marca>
-    <disponible>10</disponible>
+    <disponible>4</disponible>
     <precio>58.27</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -6253,18 +5868,29 @@
     <codigo_fabricante>ZT-T16610D-10M</codigo_fabricante>
     <descripcion>TARJETA DE VIDEO ZOTAC (ZT-T16610D-10M) GTX 1660TI 6GB AMP! 192BIT GDDR5 HDMI,DP*3</descripcion>
     <marca>ZOTAC</marca>
-    <disponible>49</disponible>
+    <disponible>44</disponible>
     <precio>260.67</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
     <categoria>TARJETAS DE VIDEO</categoria>
   </item>
   <item>
+    <clave>MOTOHQIAMT151901</clave>
+    <codigo_fabricante>QMT151901</codigo_fabricante>
+    <descripcion>MONITOR TOUCH QIAN 15" (QMT151901) 1024X768 4:3500/1 250CD</descripcion>
+    <marca>QIAN</marca>
+    <disponible>1</disponible>
+    <precio>117.35</precio>
+    <moneda>Dolares</moneda>
+    <en_promocion>No</en_promocion>
+    <categoria>PUNTO DE VENTA</categoria>
+  </item>
+  <item>
     <clave>TVPCEZOTT20800J</clave>
     <codigo_fabricante>ZT-T20800J-10P</codigo_fabricante>
     <descripcion>TARJETA DE VIDEO ZOTAC (ZT-T20800J-10P) RTX 2080 8GB GDDR6 256BIT 3DP,HDMI,USB TIPO C, BLOWER</descripcion>
     <marca>ZOTAC</marca>
-    <disponible>19</disponible>
+    <disponible>20</disponible>
     <precio>628.67</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
@@ -6275,11 +5901,22 @@
     <codigo_fabricante>ZT-T16600D-10M</codigo_fabricante>
     <descripcion>TARJETA DE VIDEO ZOTAC (ZT-T16600D-10M) GTX 1660 AMP! 6GB GDDR5 HDMI,DP*3</descripcion>
     <marca>ZOTAC</marca>
-    <disponible>44</disponible>
+    <disponible>43</disponible>
     <precio>222.84</precio>
     <moneda>Dolares</moneda>
     <en_promocion>No</en_promocion>
     <categoria>TARJETAS DE VIDEO</categoria>
+  </item>
+  <item>
+    <clave>KTVVGQIAC4D41701</clave>
+    <codigo_fabricante>QKC4D41701</codigo_fabricante>
+    <descripcion>KIT CCTV QIAN (QKC4D41701) YAO 4 CAMARAS 4 CANALES</descripcion>
+    <marca>QIAN</marca>
+    <disponible>10</disponible>
+    <precio>74.32</precio>
+    <moneda>Dolares</moneda>
+    <en_promocion>No</en_promocion>
+    <categoria>VIDEO VIGILANCIA</categoria>
   </item>
   <item>
     <clave>ACCELNACNA607</clave>
@@ -6469,17 +6106,6 @@
     <categoria>SILLAS</categoria>
   </item>
   <item>
-    <clave>ADHDMNAP235VGA</clave>
-    <codigo_fabricante>NA-235</codigo_fabricante>
-    <descripcion>ADAPTADOR HDMI-VGA NACEB (NA-235) CON CONEXION DEAUDIO 3.5MM., HDMI MACHO-VGA HEMBRA</descripcion>
-    <marca>NACEB</marca>
-    <disponible>20</disponible>
-    <precio>171.22</precio>
-    <moneda>Pesos</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>ADAPTADORES</categoria>
-  </item>
-  <item>
     <clave>AF3.5ACPAC02008</clave>
     <codigo_fabricante>AC-02008</codigo_fabricante>
     <descripcion>AUDIFONOS ACTECK EB-300 (AC-02008) IN-EAR 3.5 MMVERDE</descripcion>
@@ -6528,7 +6154,7 @@
     <codigo_fabricante>LVEB-801</codigo_fabricante>
     <descripcion>AUDIFONOS  EARBUDS ACTECK EB-800 (LVEB-801)XPLOTION NEGRO</descripcion>
     <marca>ACTECK</marca>
-    <disponible>5</disponible>
+    <disponible>4</disponible>
     <precio>32.30</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -6572,7 +6198,7 @@
     <codigo_fabricante>NA-589VE</codigo_fabricante>
     <descripcion>AUDIFONO NACEB (NA-589VE)ALTA DEFINICION C/MICSTEREO COLOR VERDE</descripcion>
     <marca>NACEB</marca>
-    <disponible>9</disponible>
+    <disponible>4</disponible>
     <precio>47.53</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -6583,7 +6209,7 @@
     <codigo_fabricante>MB-02020</codigo_fabricante>
     <descripcion>AUDIFONOS MOBIFREE (MB-02020) IN-EAR BLUETOOTHC/MICROFONO DORADO METALICO</descripcion>
     <marca>MOBIFREE</marca>
-    <disponible>4</disponible>
+    <disponible>3</disponible>
     <precio>220.29</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -6627,7 +6253,7 @@
     <codigo_fabricante>NA-621</codigo_fabricante>
     <descripcion>AIRE COMPRIMIDO NACEB (NA-621), 660ML</descripcion>
     <marca>NACEB</marca>
-    <disponible>22</disponible>
+    <disponible>19</disponible>
     <precio>65.93</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -6667,22 +6293,11 @@
     <categoria>BOCINAS</categoria>
   </item>
   <item>
-    <clave>BO1.0NAPNA598A</clave>
-    <codigo_fabricante>NA-598A</codigo_fabricante>
-    <descripcion>BOCINA PORTABLE 1.0 NACEB (NA-598A) BLUETOOTH AZUL</descripcion>
-    <marca>NACEB</marca>
-    <disponible>1</disponible>
-    <precio>179.91</precio>
-    <moneda>Pesos</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>BOCINAS</categoria>
-  </item>
-  <item>
     <clave>BO2.0ACPAX2500</clave>
     <codigo_fabricante>AUBO-014</codigo_fabricante>
     <descripcion>BOCINAS 2.0 ACTECK AX-2500 (AUBO-014) NEGRO</descripcion>
     <marca>ACTECK</marca>
-    <disponible>13</disponible>
+    <disponible>11</disponible>
     <precio>112.65</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -6693,7 +6308,7 @@
     <codigo_fabricante>TB-02005</codigo_fabricante>
     <descripcion>BOCINAS TRUE BASIX 2.0 (TB-02005) NEGRO</descripcion>
     <marca>TRUE BASIX</marca>
-    <disponible>10</disponible>
+    <disponible>8</disponible>
     <precio>64.50</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -6704,7 +6319,7 @@
     <codigo_fabricante>AC-02013</codigo_fabricante>
     <descripcion>BOCINAS 2.1 ACTECK AXF-290 (AC-02013)  NEGRO</descripcion>
     <marca>ACTECK</marca>
-    <disponible>2</disponible>
+    <disponible>1</disponible>
     <precio>486.68</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -6744,17 +6359,6 @@
     <categoria>CAMARAS</categoria>
   </item>
   <item>
-    <clave>CSLIMNAPNA068</clave>
-    <codigo_fabricante>NA-068</codigo_fabricante>
-    <descripcion>LIMPIADOR P/PANTALLAS 200ML C/MICROFIBRA NA-068NACEB</descripcion>
-    <marca>NACEB</marca>
-    <disponible>9</disponible>
-    <precio>32.71</precio>
-    <moneda>Pesos</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>LIMPIADORES PARA ELECTRONICOS</categoria>
-  </item>
-  <item>
     <clave>FP24PACPATX700</clave>
     <codigo_fabricante>ES-05004</codigo_fabricante>
     <descripcion>FUENTE DE PODER ACTECK Z-700 (ES-05004)ATX 700W/24PIN/2 S-ATA BLAZAR NEGRO</descripcion>
@@ -6770,7 +6374,7 @@
     <codigo_fabricante>ES-05001</codigo_fabricante>
     <descripcion>FUENTE DE PODER ACTECK R-500 (ES-05001) 500W/24PIN/2 SATA BLAZAR</descripcion>
     <marca>ACTECK</marca>
-    <disponible>37</disponible>
+    <disponible>6</disponible>
     <precio>244.52</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -6781,7 +6385,7 @@
     <codigo_fabricante>ES-05002</codigo_fabricante>
     <descripcion>FUENTE DE PODER ACTECK S-500 (ES05002)SLIM 500W/24P/S-ATA</descripcion>
     <marca>ACTECK</marca>
-    <disponible>23</disponible>
+    <disponible>21</disponible>
     <precio>272.12</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -6792,19 +6396,8 @@
     <codigo_fabricante>ES-05003</codigo_fabricante>
     <descripcion>FUENTE DE PODER ACTECK Z-600 (ES05003) 600W/24P/2SATA</descripcion>
     <marca>ACTECK</marca>
-    <disponible>14</disponible>
+    <disponible>13</disponible>
     <precio>288.68</precio>
-    <moneda>Pesos</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>FUENTES DE PODER</categoria>
-  </item>
-  <item>
-    <clave>FP24PTBPTB05003</clave>
-    <codigo_fabricante>TB-05003</codigo_fabricante>
-    <descripcion>FUENTE DE PODER TRUE BASIX 480W, MOD. TB-0500324 PINES</descripcion>
-    <marca>TRUE BASIX</marca>
-    <disponible>2</disponible>
-    <precio>145.26</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
     <categoria>FUENTES DE PODER</categoria>
@@ -6836,7 +6429,7 @@
     <codigo_fabricante>NA-280</codigo_fabricante>
     <descripcion>GABINETE NACEB (NA-280) P/DISCO DURO 2.5"ÿUSB 2.0</descripcion>
     <marca>NACEB</marca>
-    <disponible>4</disponible>
+    <disponible>3</disponible>
     <precio>70.02</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -6847,7 +6440,7 @@
     <codigo_fabricante>AC-05003</codigo_fabricante>
     <descripcion>GABINETE ACTECK LUMINO (AC-05003), 500W, MICRO ATXNEGRO</descripcion>
     <marca>ACTECK</marca>
-    <disponible>18</disponible>
+    <disponible>15</disponible>
     <precio>515.81</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -6858,7 +6451,7 @@
     <codigo_fabricante>AC-05008</codigo_fabricante>
     <descripcion>GABINETE ACTECK KIRUNA (AC-05008), 500W, ATX/MICRONEGRO</descripcion>
     <marca>ACTECK</marca>
-    <disponible>21</disponible>
+    <disponible>19</disponible>
     <precio>477.89</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -6891,7 +6484,7 @@
     <codigo_fabricante>GAPC-301</codigo_fabricante>
     <descripcion>GABINETE ACTECK BERN TD-510 (GAPC-301) 500W, MINIATX/MICRO ATX</descripcion>
     <marca>ACTECK</marca>
-    <disponible>44</disponible>
+    <disponible>40</disponible>
     <precio>620.18</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -6902,7 +6495,7 @@
     <codigo_fabricante>TB-05001</codigo_fabricante>
     <descripcion>GABINETE TRUE BASIX PERFORMANCE TB-05001 ATX/MINIATX</descripcion>
     <marca>TRUE BASIX</marca>
-    <disponible>66</disponible>
+    <disponible>57</disponible>
     <precio>367.08</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -6957,7 +6550,7 @@
     <codigo_fabricante>NA-628</codigo_fabricante>
     <descripcion>MONITOR LED NACEB (NA-628)FULL HD 21.5" VGA1920/1080 NEGRO</descripcion>
     <marca>NACEB</marca>
-    <disponible>22</disponible>
+    <disponible>19</disponible>
     <precio>1494.49</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -7041,17 +6634,6 @@
     <categoria>MOUSES</categoria>
   </item>
   <item>
-    <clave>MSUSBNA563G</clave>
-    <codigo_fabricante>NA-563G</codigo_fabricante>
-    <descripcion>MOUSE MINI NACEB (NA-563G) INALAMBRICO GRIS</descripcion>
-    <marca>NACEB</marca>
-    <disponible>16</disponible>
-    <precio>92.51</precio>
-    <moneda>Pesos</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>MOUSES</categoria>
-  </item>
-  <item>
     <clave>MSUSBNAC594GN</clave>
     <codigo_fabricante>NA-594GN</codigo_fabricante>
     <descripcion>MOUSE MINI NACEB (NA-594GN) INALAMBRICO 1600DPI,GRIS/NEGRO</descripcion>
@@ -7067,7 +6649,7 @@
     <codigo_fabricante>NA-616N</codigo_fabricante>
     <descripcion>MOUSE GAMING NACEB (NA-616N) USB NEGRO</descripcion>
     <marca>NACEB</marca>
-    <disponible>5</disponible>
+    <disponible>3</disponible>
     <precio>93.33</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -7177,7 +6759,7 @@
     <codigo_fabricante>SBAVR1200</codigo_fabricante>
     <descripcion>REGULADOR DE VOLTAJE SMARTBITT (SBAVR1200)1200VA/600 WATTS, 4 CONTACTOS</descripcion>
     <marca>SMARTBITT</marca>
-    <disponible>24</disponible>
+    <disponible>19</disponible>
     <precio>166.32</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -7232,7 +6814,7 @@
     <codigo_fabricante>KA-KS108</codigo_fabricante>
     <descripcion>SWITCH KASDA (KAKS108) 8 PORTS FAST ETHERNET NEGRO</descripcion>
     <marca> KASDA</marca>
-    <disponible>16</disponible>
+    <disponible>13</disponible>
     <precio>135.24</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -7342,7 +6924,7 @@
     <codigo_fabricante>NA-613</codigo_fabricante>
     <descripcion>TECLADO Y MOUSE INALAMBRICO NACEB (NA-613) MULT.</descripcion>
     <marca>NACEB</marca>
-    <disponible>15</disponible>
+    <disponible>10</disponible>
     <precio>220.80</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -7397,7 +6979,7 @@
     <codigo_fabricante>TB-01006</codigo_fabricante>
     <descripcion>TECLADO Y MOUSE USB TRUE BASIX (TB-01006) NEGRO</descripcion>
     <marca>TRUE BASIX</marca>
-    <disponible>20</disponible>
+    <disponible>19</disponible>
     <precio>106.11</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -7410,17 +6992,6 @@
     <marca>JHETA</marca>
     <disponible>15</disponible>
     <precio>570.40</precio>
-    <moneda>Pesos</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>NO BREAKS</categoria>
-  </item>
-  <item>
-    <clave>UP10MSMB900LCD</clave>
-    <codigo_fabricante>SBNB900LCD</codigo_fabricante>
-    <descripcion>NO-BREAK SMARTBITT (SBNB900LCD) 900VA/450 WATTS, 6CONTACTOS, RJ-11,PUERTO USB, PANTALLA LCD</descripcion>
-    <marca>SMARTBITT</marca>
-    <disponible>2</disponible>
-    <precio>1070.27</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
     <categoria>NO BREAKS</categoria>
@@ -7441,19 +7012,8 @@
     <codigo_fabricante>SBNB1200</codigo_fabricante>
     <descripcion>NO-BREAK SMARTBITT (SBNB1200) 1200VA/600 WATTS, 8CONTACTOS, RJ-11, PUERTO USB</descripcion>
     <marca>SMARTBITT</marca>
-    <disponible>5</disponible>
+    <disponible>3</disponible>
     <precio>1578.62</precio>
-    <moneda>Pesos</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>NO BREAKS</categoria>
-  </item>
-  <item>
-    <clave>UP10MSMBNB500</clave>
-    <codigo_fabricante>SBNB500</codigo_fabricante>
-    <descripcion>NO-BREAK SMARTBITT(SBNB500) 500VA/250 WATTS, 4CONTACTOS</descripcion>
-    <marca>SMARTBITT</marca>
-    <disponible>8</disponible>
-    <precio>646.76</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
     <categoria>NO BREAKS</categoria>
@@ -7463,7 +7023,7 @@
     <codigo_fabricante>SBNB750</codigo_fabricante>
     <descripcion>NO-BREAK SMARTBITT (SBNB750) 750VA/375 WATTS, 6CONTACTOS, RJ-11</descripcion>
     <marca>SMARTBITT</marca>
-    <disponible>6</disponible>
+    <disponible>4</disponible>
     <precio>785.07</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -7474,7 +7034,7 @@
     <codigo_fabricante>821750-01</codigo_fabricante>
     <descripcion>NO-BREAK JHETA (821750-01) 750VA NEO 750, 6 CONTACTOS REGULADOS Y RESPALDADOS</descripcion>
     <marca>JHETA</marca>
-    <disponible>9</disponible>
+    <disponible>5</disponible>
     <precio>704.31</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -7485,7 +7045,7 @@
     <codigo_fabricante>821900-01</codigo_fabricante>
     <descripcion>NO-BREAK JHETA (821900-01) 900VA NEO LED 900, 6 CONTACTOS REGULADOS Y RESPALDADOS, PANTALLA TACTIL</descripcion>
     <marca>JHETA</marca>
-    <disponible>5</disponible>
+    <disponible>1</disponible>
     <precio>843.84</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -7613,17 +7173,6 @@
     <categoria>AUDIFONOS</categoria>
   </item>
   <item>
-    <clave>AF3.5ENG426737</clave>
-    <codigo_fabricante>EY-426737</codigo_fabricante>
-    <descripcion>AUDIFONOS DIADEMA ENERGY SISTEM (EY-426737)(ALAMBRICOS MANOS LIBRES 3.5MM)BLANCA</descripcion>
-    <marca>ENERGY SISTEM</marca>
-    <disponible>1</disponible>
-    <precio>195.24</precio>
-    <moneda>Pesos</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>AUDIFONOS</categoria>
-  </item>
-  <item>
     <clave>BOBTHENG424481</clave>
     <codigo_fabricante>EY-424481</codigo_fabricante>
     <descripcion>BOCINA PORTATIL ENERGY SISTEM (EY-424481)1.0 6 WATTS.BLUETOOTH (RECARGABLE FM,DISPLAY)NEG/VER</descripcion>
@@ -7666,17 +7215,6 @@
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
     <categoria>AUDIFONOS</categoria>
-  </item>
-  <item>
-    <clave>GASFTBAL912914</clave>
-    <codigo_fabricante>BR-912914</codigo_fabricante>
-    <descripcion>GABINETE GAMING BALAM RUSH (BR-912914) SIN FUENTEATX MICRO ATX NEGRO/NARANJA.</descripcion>
-    <marca>BALAM RUSH</marca>
-    <disponible>1</disponible>
-    <precio>844.66</precio>
-    <moneda>Pesos</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>GABINETES</categoria>
   </item>
   <item>
     <clave>FP24PBAL912907</clave>
@@ -7727,7 +7265,7 @@
     <codigo_fabricante>NA-0911</codigo_fabricante>
     <descripcion>KIT TECLADO Y MOUSE METALICO NACEB (NA-0911)RETROILUMINADO 4 COLORES CABLE USB 1.5 M</descripcion>
     <marca>NACEB</marca>
-    <disponible>47</disponible>
+    <disponible>46</disponible>
     <precio>283.16</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -7767,17 +7305,6 @@
     <categoria>REPRODUCTORES</categoria>
   </item>
   <item>
-    <clave>RPMP4ENG426461</clave>
-    <codigo_fabricante>EY-426461</codigo_fabricante>
-    <descripcion>MP4 TOUCH BLUETOOTH ENERGY SISTEM(EY-426461)MEMORIA INTERNA 8GB,SD EXP 64GB,MP3,3.5.MENTA</descripcion>
-    <marca>ENERGY SISTEM</marca>
-    <disponible>1</disponible>
-    <precio>562.32</precio>
-    <moneda>Pesos</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>REPRODUCTORES</categoria>
-  </item>
-  <item>
     <clave>RPMP3ENG426508</clave>
     <codigo_fabricante>EY-426508</codigo_fabricante>
     <descripcion>MP3 CLIP BLUETOOTH ENERGY SISTEM (EY-426508)MEMORIA INTERNA 8GB,SD EXP 64GB,MP3,3.5.MENTA</descripcion>
@@ -7793,7 +7320,7 @@
     <codigo_fabricante>EV-914055</codigo_fabricante>
     <descripcion>MINI DRONE EVOROK EAGLE 360 (EV-914055)2.4 GHZ/CAMARA 1MP/WIFI 2.4 GHS/ALCANCE 80 MTS. NEGRO/ROJO</descripcion>
     <marca>EVOROK</marca>
-    <disponible>2</disponible>
+    <disponible>1</disponible>
     <precio>753.17</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -7936,22 +7463,11 @@
     <codigo_fabricante>NA-0601</codigo_fabricante>
     <descripcion>MONITOR LED NACEB (NA-0601)FULL HD SLIM 23.8" VGAHDMI 1920/1080 NEGRO</descripcion>
     <marca>NACEB</marca>
-    <disponible>4</disponible>
+    <disponible>3</disponible>
     <precio>2486.04</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
     <categoria>MONITORES</categoria>
-  </item>
-  <item>
-    <clave>JPUSBNAPNA917</clave>
-    <codigo_fabricante>NA-0917</codigo_fabricante>
-    <descripcion>CONTROL USB NACEB (NA-0917) JOYPAD CON VIBRACION,PC WIND X10,8,7 COLOR NEGRO</descripcion>
-    <marca>NACEB</marca>
-    <disponible>7</disponible>
-    <precio>67.98</precio>
-    <moneda>Pesos</moneda>
-    <en_promocion>No</en_promocion>
-    <categoria>ACCESORIOS</categoria>
   </item>
   <item>
     <clave>VELAPNAC637</clave>
@@ -8013,7 +7529,7 @@
     <codigo_fabricante>AC-916493</codigo_fabricante>
     <descripcion>TECLADO ACTECK INALAMBRICO USB (AC-916493)MULTIMEDIA NEGRO</descripcion>
     <marca>ACTECK</marca>
-    <disponible>15</disponible>
+    <disponible>12</disponible>
     <precio>134.32</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -8024,7 +7540,7 @@
     <codigo_fabricante>AC-916608</codigo_fabricante>
     <descripcion>TECLADO ACTECK ESTANDAR USB (AC-916608) CABLE1.35M, NEGRO</descripcion>
     <marca>ACTECK</marca>
-    <disponible>68</disponible>
+    <disponible>67</disponible>
     <precio>73.09</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -8057,7 +7573,7 @@
     <codigo_fabricante>AC-916639</codigo_fabricante>
     <descripcion>KIT TECLADO Y MOUSE ESTANDAR ACTECK USB(AC-916639) CABLE 1.5M NEGRO</descripcion>
     <marca>ACTECK</marca>
-    <disponible>52</disponible>
+    <disponible>48</disponible>
     <precio>106.92</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -8200,7 +7716,7 @@
     <codigo_fabricante>TB-916752</codigo_fabricante>
     <descripcion>BASE ENFRIADORA TRUE BASIX PARA LAPTOP 15"(TB-916752) NEGRO</descripcion>
     <marca>TRUE BASIX</marca>
-    <disponible>8</disponible>
+    <disponible>7</disponible>
     <precio>58.78</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -8233,7 +7749,7 @@
     <codigo_fabricante>TB-916738</codigo_fabricante>
     <descripcion>TECLADO ALAMBRICO MULTIMEDIA TRUE BASIX(TB-916738)USB NEGRO.</descripcion>
     <marca>TRUE BASIX</marca>
-    <disponible>3</disponible>
+    <disponible>2</disponible>
     <precio>58.78</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -8277,7 +7793,7 @@
     <codigo_fabricante>AC-919098</codigo_fabricante>
     <descripcion>GABINETE ACTECK P/DISCO DURO  (AC-919098) 2.5"USB2.0. NEGRO</descripcion>
     <marca>ACTECK</marca>
-    <disponible>4</disponible>
+    <disponible>5</disponible>
     <precio>133.91</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -8288,7 +7804,7 @@
     <codigo_fabricante>AC-914697</codigo_fabricante>
     <descripcion>BOCINAS 2.1 ACTECK (AC-914697) 4"/10W.USB.INTERFAS3.5 NEGRO</descripcion>
     <marca>ACTECK</marca>
-    <disponible>4</disponible>
+    <disponible>2</disponible>
     <precio>328.13</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -8312,6 +7828,17 @@
     <marca>MOBIFREE</marca>
     <disponible>4</disponible>
     <precio>128.29</precio>
+    <moneda>Pesos</moneda>
+    <en_promocion>No</en_promocion>
+    <categoria>AUDIFONOS</categoria>
+  </item>
+  <item>
+    <clave>AF3.5MBPMB02011</clave>
+    <codigo_fabricante>MB-02011</codigo_fabricante>
+    <descripcion>AUDIFONOS MOBIFREE (MB-02011) IN-EAR DIADEMA 3.5,C/MICROFONO ROSA METALICO</descripcion>
+    <marca>MOBIFREE</marca>
+    <disponible>3</disponible>
+    <precio>131.97</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
     <categoria>AUDIFONOS</categoria>
@@ -8376,7 +7903,7 @@
     <codigo_fabricante>EY-426515</codigo_fabricante>
     <descripcion>BOCINA PORTATIL ENERGY SISTEM (EY-426515)(6WATTS.BLUETOOTH RECARGABLE)NEGRO.</descripcion>
     <marca>ENERGY SISTEM</marca>
-    <disponible>4</disponible>
+    <disponible>2</disponible>
     <precio>347.56</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -8519,7 +8046,7 @@
     <codigo_fabricante>SE-500</codigo_fabricante>
     <descripcion>NO-BREAK POWER ENERGY (SE-500) 400VA/240W 4CONTACTOS HASTA 25 MINUTOS DE RESPALDO</descripcion>
     <marca>POWER ENERGY</marca>
-    <disponible>126</disponible>
+    <disponible>125</disponible>
     <precio>504.98</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -8618,7 +8145,7 @@
     <codigo_fabricante>BN-00003</codigo_fabricante>
     <descripcion>SMARTPHONE BLECK (BL-919739) 5"AZUL + SMARTWATCHBLECK BE WATCH 1.44"(BL-919869)</descripcion>
     <marca>BLECK</marca>
-    <disponible>5</disponible>
+    <disponible>3</disponible>
     <precio>1397.89</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -8684,7 +8211,7 @@
     <codigo_fabricante>GW2280</codigo_fabricante>
     <descripcion>MONITOR LED BENQ 21.5" (GW2280) 1920X1080,VGA,HDMI,C/BOC.,B.I.,F.F.,L.B.L.,C</descripcion>
     <marca>BENQ</marca>
-    <disponible>76</disponible>
+    <disponible>56</disponible>
     <precio>1776.02</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
@@ -8695,7 +8222,7 @@
     <codigo_fabricante>GW2480</codigo_fabricante>
     <descripcion>MONITOR LED BENQ 23.8"(GW2480) 1920X1080,VGA,HDMI,C/BOC.,B.I.,F.F.,L.B.L.,C/CABLE HDMI</descripcion>
     <marca>BENQ</marca>
-    <disponible>36</disponible>
+    <disponible>35</disponible>
     <precio>2095.56</precio>
     <moneda>Pesos</moneda>
     <en_promocion>No</en_promocion>
