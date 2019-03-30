@@ -2,7 +2,7 @@
 
 class auther {
   public function signin($email, $password){
-    $db = new \PDO('mysql:dbname=prestashop;host=127.0.0.1;charset=utf8mb4', 'root', '');
+    $db = new \PDO('mysql:dbname=pruebatest;host=127.0.0.1;charset=utf8mb4', 'root', '');
     $auth = new \Delight\Auth\Auth($db);
     try {
     $auth->login($email, $password);
@@ -23,7 +23,7 @@ class auther {
   }
 
   public function signup($email, $password, $username){
-    $db = new \PDO('mysql:dbname=prestashop;host=127.0.0.1;charset=utf8mb4', 'root', '');
+    $db = new \PDO('mysql:dbname=pruebatest;host=127.0.0.1;charset=utf8mb4', 'root', '');
     $auth = new \Delight\Auth\Auth($db);
     try {
     $userId = $auth->register($email, $password, $username, function ($selector, $token) {
@@ -45,7 +45,7 @@ class auther {
   }
 
   public function emailValidation($selector, $token){
-    $db = new \PDO('mysql:dbname=prestashop;host=127.0.0.1;charset=utf8mb4', 'root', '');
+    $db = new \PDO('mysql:dbname=pruebatest;host=127.0.0.1;charset=utf8mb4', 'root', '');
     $auth = new \Delight\Auth\Auth($db);
     try {
       $auth->confirmEmail($selector, $token);

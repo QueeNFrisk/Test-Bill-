@@ -83,7 +83,7 @@ if(isset($_GET['q']) == $arroba){
         </section>
       </div>
       <div class="kin-nes-progrss-bar">
-        <progress class="nes-progress is-primary" value="<?php var_export($i); ?>" max="2605"></progress>
+        <progress class="nes-progress is-primary" value="0" max="2605"></progress>
       </div>
     </div>
   </body>

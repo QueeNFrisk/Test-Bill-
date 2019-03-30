@@ -3,12 +3,6 @@
 include('vendor/autoload.php');
 include('latch.php');
 
-$api = new Latch('x3bktETfi6q9CQr3efD6', 'prmvNbGupyPhyYEKGatBa6Qxppjz6WeyruKxwHa8');
-#$pairResponse = $api->pair('EQLbMv');
-#$data_ast = $pairResponse->getData();
-$statusResponse = $api->status('aD8AMh2idkvMkQmTUvdC4FT7ecUqYeruZyaeTAWyBFwPNt6VUUFG6fVb3eWDG47z');
-#$unpairResponse = $api->unpair('pzcGpLcp7xQczLgR6wgVLnrxeWLhD7TFDirPUXrBLVxQhKc3h8wzsuTrU7kx2wBG');
-var_dump($statusResponse->data->operations);
 
 ?>
 <!DOCTYPE html>
@@ -66,7 +60,7 @@ var_dump($statusResponse->data->operations);
         </div>
       </div>
     </div>
-    
+
   </body>
 </html>
 
