@@ -4,7 +4,8 @@
     "require": {
         "phpoffice/phpspreadsheet": "^1.6",
         "elevenpaths/latch-sdk-php": "dev-master",
-        "delight-im/auth": "^8.1"
+        "delight-im/auth": "^8.1",
+        "occ2/progress-bar": "^1.0"
     },
     "authors": [
         {

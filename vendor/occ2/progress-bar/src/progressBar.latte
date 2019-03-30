@@ -1,0 +1,12 @@
+{snippet progressBar}
+    {if $config['title']!=null}<div class="small">{$config['title']|translate}</div>{/if}
+    <div id="progress-bar-{$name}" class="progress autorefresh" data-refresh-time="{$refreshTime}" data-refresh-url="{link reload!}">
+        <div class="progress-bar {ifset $config['colorStyle']}progress-bar-{$config['colorStyle']}{else}progress-bar-success{/ifset}{if $config['strippedStyle']} progress-bar-striped {if $config['animatedStyle']}active{/if}{/if}" role="progressbar" aria-valuenow="{$currentValue}" aria-valuemin="{$config['minValue']}" aria-valuemax="{$config['maxValue']}" style="width: {$width}%">
+            {if $config['showValue']}
+                {$config["valuePrefix"]|translate}{$currentValue}{$config["valueSuffix"]|translate}
+            {else}
+                <span class="sr-only">{$currentValue}</span>
+            {/if}
+        </div>
+    </div>
+{/snippet}

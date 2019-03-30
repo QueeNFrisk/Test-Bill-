@@ -7,10 +7,21 @@ body{
   margin-left:0.5%;
   margin-top:0.5%;
 }
-
+.nes {
+  margin-left:25%;
+}
+.kindred {
+  height: 65%;
+}
+.kin.is-custom-ar, .kin.is-custom-fa, .kin.is-custom-id, .kin.is-custom-im, .kin.is-custom-te, .kin.is-custom-cv, .kin.is-custom-pc {
+  margin-left:7%;
+}
+.kin.is-custom-te .kin.is-custom-cv, .kin.is-custom-pc {
+  margin-bottom:6%;
+}
 .logox {
   position:relative;
-  left:22.5%;
+  left:29.5%;
 }
 .is-top{
   position:absolute;
@@ -19,70 +30,69 @@ body{
 }
 .is-custom-ar {
   width:20%;
-  height: 11rem;
+  height: 11rem !important;
   margin:1%;
   margin-top:5%;
   padding-bottom:1%;
-  position:relative;
 }
 .kin .nes-btn{
   margin-top:10%;
 }
 .is-custom-fa {
   width:20%;
-  height: 11rem;
+  height: 11rem !important;
   margin:1%;
-  margin-top:5%;
+  margin-top:4.6%;
   padding-bottom:1%;
   position:absolute;
-  top:16.5%;
+  top:15.5%;
   left:22%;
 }
 .is-custom-id {
   width:20%;
-  height: 11rem;
+  height: 11rem !important;
   margin:1%;
-  margin-top:5%;
+  margin-top:4.6%;
   padding-bottom:1%;
   position:absolute;
-  top:16.5%;
+  top:15.5%;
   left:44%;
 }
 .is-custom-im {
   width:20%;
-  height: 11rem;
+  height: 11rem !important;
   margin:1%;
-  margin-top:5%;
+  margin-top:4.6%;
   padding-bottom:1%;
   position: absolute;
-  top:16.5%;
+  top:15.5%;
   left:66%;
 }
 .is-custom-te {
   width:20%;
-  height: 11rem;
+  height: 11rem !important;
   margin:1%;
   margin-top:5%;
   padding-bottom:1%;
 }
 .is-custom-cv {
   width:20%;
-  height: 32%;
+  height: 11rem !important;
   margin:1%;
   margin-top:5%;
   padding-bottom:1%;
   position: absolute;
-  top:57.45%;
+  top:51.45%;
   left:22%;
 }
 .is-custom-pc {
   width:20%;
-  height: 31%;
+  height: 11rem;
   margin:1%;
   margin-top:5%;
   padding-bottom:1%;
   position: absolute;
-  top:57.45%;
+  top:51.45%;
   left:44%;
 }
 .is-custom-ar.nes-container.with-title > .title {
@@ -160,4 +170,9 @@ body{
 }
 .is-custom-pc.nes-container img {
   width:60%;
+}
+.kin-nes-progrss-bar {
+  position:absolute;
+  top:87%;
+  width:48.6%;
 }

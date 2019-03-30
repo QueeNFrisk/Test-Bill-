@@ -8,6 +8,7 @@ $baseDir = dirname($vendorDir);
 return array(
     'Psr\\SimpleCache\\' => array($vendorDir . '/psr/simple-cache/src'),
     'PhpOffice\\PhpSpreadsheet\\' => array($vendorDir . '/phpoffice/phpspreadsheet/src/PhpSpreadsheet'),
+    'OCC2\\ProgressBar\\' => array($vendorDir . '/occ2/progress-bar/src'),
     'Matrix\\' => array($vendorDir . '/markbaker/matrix/classes/src'),
     'ElevenPaths\\Latch\\' => array($vendorDir . '/elevenpaths/latch-sdk-php/lib'),
     'Delight\\Http\\' => array($vendorDir . '/delight-im/http/src'),

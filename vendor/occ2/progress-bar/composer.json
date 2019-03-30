@@ -1,0 +1,26 @@
+{
+    "name": "occ2/progress-bar",
+    "description": "Simple progress bar control for Nette Framework. Based on Twitter Bootstrap 3",
+    "homepage": "https://github.com/OCC2/ProgressBar",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Milan Onderka",
+            "email": "milan_onderka@occ2.cz",
+            "homepage": "http://occ2.cz",
+            "role": "Developer"
+        }
+    ],
+   "require": {
+        "php": ">=5.6",
+        "nette/application": "^2.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "OCC2\\ProgressBar\\": "src/"
+        },
+        "classmap": [
+            "src/ProgressBar.php"
+        ]
+    }
+}
