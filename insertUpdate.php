@@ -21,19 +21,26 @@ class listsUpdate {
     $MEDIUM_GAN = round('1.20', 2);
     $MEDIUMLOW_GAN = round('1.30', 2);
     $LOW_GAN = round('1.5', 2);
-    $db = new mysqli('localhost', 'root', '', 'prestashop');
+    $db = new mysqli('192.168.50.36', 'Daniel', '', 'pruebatest');
     $arroba = __DIR__ . '/Lists/Arroba.xlsx';
     // __ARROBA IMPORT TO JSON -> EXPORT TO MYSQL
     $arroba_sheet = IOFactory::load($arroba);
     $arroba_sheet = $arroba_sheet->getActiveSheet()->toArray(null, true, true, true);
     for($i = 1; $i <= count($arroba_sheet)-1; $i++){
       $a_ar = str_replace('"', " ", str_replace("/", " ", $arroba_sheet[$i]["A"]));
+      echo $a_ar. " || ";
       $b_ar = $arroba_sheet[$i]["B"];
+      echo $b_ar. " || ";
       $c_ar = $arroba_sheet[$i]["C"];
+      echo $c_ar. " || ";
       $d_ar = $arroba_sheet[$i]["D"];
+      echo $d_ar. " || ";
       $e_ar = $arroba_sheet[$i]["E"];
+      echo $e_ar. " || ";
       $f_ar = $arroba_sheet[$i]["F"];
+      echo $f_ar. " || ";
       $g_ar = $arroba_sheet[$i]["G"];
+      echo $g_ar;
       if($d_te = "Dolares"){
         $h_ar_t = round($g_ar, 2);
         $h_ar_ti = round($h_ar_t * $INTERAL_CURRENCY, PHP_ROUND_HALF_UP);
@@ -49,7 +56,7 @@ class listsUpdate {
           $h_ar_tig = round($h_ar_ti * $HIGH_GAN, PHP_ROUND_HALF_UP);
         }
         $h_ar_tigf = round($h_ar_tig / $EXTERNAL_CURRENCY, PHP_ROUND_HALF_UP);
-      }else{
+      }elseif($d_te == "Pesos"){
         $h_ar_t = round($g_ar, 2);
         $h_ar_ti = round($h_ar_t, PHP_ROUND_HALF_UP);
         if($h_ar_ti <= 2){
@@ -67,11 +74,13 @@ class listsUpdate {
       }
       $conslt_pe = $db->query('SELECT * FROM ps_product WHERE reference = "'.$a_ar.'"');
       $conslt_pe = $conslt_pe->fetch_array(MYSQLI_ASSOC);
+      var_dump($conslt_pe);
       $id_product = $conslt_pe['id_product'];
       $price = $db->query('UPDATE ps_product_shop SET price = "'.$h_ar_tigf.'" WHERE id_product = "'.$conslt_pe['id_product'].'"');
+      var_dump($price);
       $stock_get_a = $db->query('SELECT * FROM ps_stock_available WHERE id_product = "'.$conslt_pe['id_product'].'"');
       $stock_get_a = $stock_get_a->fetch_array(MYSQLI_ASSOC);
-      $stock_get_a = $f_ar;
+      $stock_get_a = $stock_get_a['quantity'] + $f_ar;
       $stock_put = $db->query('UPDATE ps_stock_available SET quantity = "'.$stock_get_a.'" WHERE id_product = "'.$conslt_pe['id_product'].'"');
     }
   }
@@ -85,7 +94,7 @@ class listsUpdate {
     $MEDIUMLOW_GAN = round('1.30', 2);
     $LOW_GAN = round('1.5', 2);
 
-    $db = new mysqli('localhost', 'root', '', 'prestashop');
+    $db = new mysqli('192.168.50.36', 'Daniel', '', 'pruebatest');
 
     $fastek = __DIR__ . '/Lists/Fastek.xlsx';
     // __FASTEK IMPORT TO JSON -> EXPORT TO MYSQL
@@ -131,7 +140,7 @@ class listsUpdate {
     $MEDIUMLOW_GAN = round('1.30', 2);
     $LOW_GAN = round('1.5', 2);
 
-    $db = new mysqli('localhost', 'root', '', 'prestashop');
+    $db = new mysqli('192.168.50.36', 'Daniel', '', 'pruebatest');
 
     $ideac = __DIR__ . '/Lists/Ideac.xlsx';
     // __IDEAC IMPORT TO JSON -> EXPORT TO MYSQL
@@ -163,7 +172,7 @@ class listsUpdate {
       $price = $db->query('UPDATE ps_product_shop SET price = "'.$g_id_tigf.'" WHERE id_product = "'.$conslt_pe['id_product'].'"');
       $stock_get_c = $db->query('SELECT * FROM ps_stock_available WHERE id_product = "'.$conslt_pe['id_product'].'"');
       $stock_get_c = $stock_get_c->fetch_array(MYSQLI_ASSOC);
-      $stock_get_c = $f_id;
+      $stock_get_c = $stock_get_c['quantity'] + $f_id;
       $stock_put = $db->query('UPDATE ps_stock_available SET quantity = "'.$stock_get_c.'" WHERE id_product = "'.$conslt_pe['id_product'].'"');
     }
   }
@@ -178,7 +187,7 @@ class listsUpdate {
     $MEDIUMLOW_GAN = round('1.30', 2);
     $LOW_GAN = round('1.5', 2);
 
-    $db = new mysqli('localhost', 'root', '', 'prestashop');
+    $db = new mysqli('192.168.50.36', 'Daniel', '', 'pruebatest');
 
     $importacion = __DIR__ . '/Lists/Importacion.xlsx';
     // __IMPORTACION IMPORT TO JSON -> EXPORT TO MYSQL
@@ -208,7 +217,7 @@ class listsUpdate {
       $price = $db->query('UPDATE ps_product_shop SET price = "'.$e_im_tigf.'" WHERE id_product = "'.$conslt_pe['id_product'].'"');
       $stock_get_d = $db->query('SELECT * FROM ps_stock_available WHERE id_product = "'.$conslt_pe['id_product'].'"');
       $stock_get_d = round($stock_get_d->fetch_array(MYSQLI_ASSOC));
-      $stock_get_d = $c_im;
+      $stock_get_d = $stock_get_d['quantity'] + $c_im;
       $stock_put_d = $db->query('UPDATE ps_stock_available SET quantity = "'.$stock_get_d.'" WHERE id_product = "'.$conslt_pe['id_product'].'"');
     }
   }
@@ -224,7 +233,7 @@ class listsUpdate {
     $MEDIUMLOW_GAN = round('1.30', 2);
     $LOW_GAN = round('1.5', 2);
 
-    $db = new mysqli('localhost', 'root', '', 'prestashop');
+    $db = new mysqli('192.168.50.36', 'Daniel', '', 'pruebatest');
     $techsmart = simplexml_load_file('lists/techsmart.xml', 'SimpleXMLElement');
     for($i = 1; $i <= count($techsmart->item)-1; $i++){
       $a_te = str_replace(")", " ", str_replace("(", " ", str_replace("*", " ", str_replace('"', " ", str_replace("/", " ", $techsmart->item->$i->codigo_fabricante))))); // Referencia
@@ -233,7 +242,7 @@ class listsUpdate {
       $c_te = str_replace(")", " ", str_replace("(", " ", str_replace("*", " ", str_replace('"', " ", str_replace("/", " ", $techsmart->item->$i->precio))))); // PrecioO
       $f_te = str_replace(")", " ", str_replace("(", " ", str_replace("*", " ", str_replace('"', " ", str_replace("/", " ", $techsmart->item->$i->disponible))))); // GDL
       $c_te = round($c_te, 2);
-      if($d_te = "Dolares"){
+      if($d_te == "Dolares"){
         $e_te_ti = $c_te * $INTERAL_CURRENCY;
         if($e_te_ti <= 2){
           $e_te_tig = 9999.1 * $HIGH_GAN;
@@ -246,7 +255,7 @@ class listsUpdate {
         }elseif($e_te_ti > 901){
           $e_te_tig = $e_te_ti * $HIGH_GAN;
         }
-      }else{
+      }elseif($d_te == "Pesos"){
         if($e_te_ti <= 2){
           $e_te_tig = 9999.1 * $HIGH_GAN;
         }elseif($e_te_ti > 2 && $e_te_ti < 300){
@@ -260,13 +269,14 @@ class listsUpdate {
         }
       }
       $e_te_tigf = $e_te_tig / $EXTERNAL_CURRENCY;
+      $e_te_tigf = $e_te_tigf * 1.1;
       $conslt_pe = $db->query('SELECT * FROM ps_product WHERE reference = "'.$a_te.'"');
       $conslt_pe = $conslt_pe->fetch_array(MYSQLI_ASSOC);
       $price = $db->query('UPDATE ps_product_shop SET price = "'.$e_te_tigf.'" WHERE id_product = "'.$conslt_pe['id_product'].'"');
       $stock_get_e = $db->query('SELECT * FROM ps_stock_available WHERE id_product = "'.$conslt_pe['id_product'].'"');
       $stock_get_e = $stock_get_e->fetch_array(MYSQLI_ASSOC);
       $id_product = $conslt_pe['id_product'];
-      $stock_get_e = $f_te;
+      $stock_get_e = $stock_get_e['quantity'] + $f_te;
       $stock_put = $db->query('UPDATE ps_stock_available SET quantity = "'.$stock_get_e.'" WHERE id_product = "'.$conslt_pe['id_product'].'"');
     }
   }

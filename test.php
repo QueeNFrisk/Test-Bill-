@@ -9,19 +9,19 @@ $fastek = md5('fastek');
 $ideac = md5('ideac');
 $importacion = md5('importacion');
 $techsmart = md5('techsmart');
-if(isset($_GET['q']) == $arroba){
+if($_GET['q'] == $arroba){
   $a->arroba_update();
 
-}elseif(isset($_GET['q']) == $fastek){
+}elseif($_GET['q'] == $fastek){
   $a->fastek_update();
 
-}elseif(isset($_GET['q']) == $ideac){
+}elseif($_GET['q'] == $ideac){
   $a->ideac_update();
 
-}elseif(isset($_GET['q']) == $importacion){
+}elseif($_GET['q'] == $importacion){
   $a->importacion_update();
 
-}elseif(isset($_GET['q']) == $techsmart){
+}elseif($_GET['q'] == $techsmart){
   $a->techsmart_update();
 }
 
