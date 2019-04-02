@@ -28,19 +28,12 @@ class listsUpdate {
     $arroba_sheet = $arroba_sheet->getActiveSheet()->toArray(null, true, true, true);
     for($i = 1; $i <= count($arroba_sheet)-1; $i++){
       $a_ar = str_replace('"', " ", str_replace("/", " ", $arroba_sheet[$i]["A"]));
-      echo $a_ar. " || ";
       $b_ar = $arroba_sheet[$i]["B"];
-      echo $b_ar. " || ";
       $c_ar = $arroba_sheet[$i]["C"];
-      echo $c_ar. " || ";
       $d_ar = $arroba_sheet[$i]["D"];
-      echo $d_ar. " || ";
       $e_ar = $arroba_sheet[$i]["E"];
-      echo $e_ar. " || ";
       $f_ar = $arroba_sheet[$i]["F"];
-      echo $f_ar. " || ";
       $g_ar = $arroba_sheet[$i]["G"];
-      echo $g_ar;
       if($d_te = "Dolares"){
         $h_ar_t = round($g_ar, 2);
         $h_ar_ti = round($h_ar_t * $INTERAL_CURRENCY, PHP_ROUND_HALF_UP);
@@ -74,10 +67,8 @@ class listsUpdate {
       }
       $conslt_pe = $db->query('SELECT * FROM ps_product WHERE reference = "'.$a_ar.'"');
       $conslt_pe = $conslt_pe->fetch_array(MYSQLI_ASSOC);
-      var_dump($conslt_pe);
       $id_product = $conslt_pe['id_product'];
       $price = $db->query('UPDATE ps_product_shop SET price = "'.$h_ar_tigf.'" WHERE id_product = "'.$conslt_pe['id_product'].'"');
-      var_dump($price);
       $stock_get_a = $db->query('SELECT * FROM ps_stock_available WHERE id_product = "'.$conslt_pe['id_product'].'"');
       $stock_get_a = $stock_get_a->fetch_array(MYSQLI_ASSOC);
       $stock_get_a = $stock_get_a['quantity'] + $f_ar;
@@ -217,8 +208,8 @@ class listsUpdate {
       $price = $db->query('UPDATE ps_product_shop SET price = "'.$e_im_tigf.'" WHERE id_product = "'.$conslt_pe['id_product'].'"');
       $stock_get_d = $db->query('SELECT * FROM ps_stock_available WHERE id_product = "'.$conslt_pe['id_product'].'"');
       $stock_get_d = round($stock_get_d->fetch_array(MYSQLI_ASSOC));
-      $stock_get_d = $stock_get_d['quantity'] + $c_im;
-      $stock_put_d = $db->query('UPDATE ps_stock_available SET quantity = "'.$stock_get_d.'" WHERE id_product = "'.$conslt_pe['id_product'].'"');
+      $stock_get_d = round($stock_get_d['quantity'], 2) + round($c_im, 2);
+      $stock_put_d = $db->query('UPDATE ps_stock_available SET quantity = "'.$stock_get_d.'" WHERE id_product = "'.round($conslt_pe['id_product'], 2).'"');
     }
   }
 
@@ -269,7 +260,6 @@ class listsUpdate {
         }
       }
       $e_te_tigf = $e_te_tig / $EXTERNAL_CURRENCY;
-      $e_te_tigf = $e_te_tigf * 1.1;
       $conslt_pe = $db->query('SELECT * FROM ps_product WHERE reference = "'.$a_te.'"');
       $conslt_pe = $conslt_pe->fetch_array(MYSQLI_ASSOC);
       $price = $db->query('UPDATE ps_product_shop SET price = "'.$e_te_tigf.'" WHERE id_product = "'.$conslt_pe['id_product'].'"');
